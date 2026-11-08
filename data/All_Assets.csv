@@ -10808,7 +10808,7 @@ crypto:HLPT,HLPT,HLP Token,crypto,,,,crypti/cryptocurrencies
 crypto:HLS,HLS,Halis,crypto,,,,crypti/cryptocurrencies
 stock:HLSQ,HLSQ,Tessera Defense and Homeland Security Inc.,stock,NYSE American,United States,Technology,nasdaqtrader+yfinance
 crypto:HLT,HLT,HyperLoot,crypto,,,,crypti/cryptocurrencies
-stock:HLT,HLT,Hilton Worldwide Holdings Inc. Common Stock,stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
+stock:HLT,HLT,Hilton Worldwide Holdings Inc.,stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
 etf:HLTH,HLTH,Tema Healthcare AI ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:HLX,HLX,Helex,crypto,,,,crypti/cryptocurrencies
 stock:HLXC,HLXC,Helix Acquisition Corp. III,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
@@ -10950,7 +10950,7 @@ crypto:HPL,HPL,HappyLand (HPL),crypto,,,,crypti/cryptocurrencies
 crypto:HPN,HPN,HyperonChain,crypto,,,,crypti/cryptocurrencies
 crypto:HPO,HPO,Hippocrat,crypto,,,,crypti/cryptocurrencies
 stock:HPP,HPP,"Hudson Pacific Properties, Inc.",stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
-stock:HPP$C,HPP$C,"Hudson Pacific Properties, Inc.",stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
+stock:HPP$C,HPP$C,"Hudson Pacific Properties, Inc.",stock,NYSE,,,nasdaqtrader+yfinance
 stock:HPQ,HPQ,HP Inc.,stock,NYSE,United States,Technology,nasdaqtrader+yfinance
 stock:HPS,HPS,John Hancock Preferred Income Fund III,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:HPT,HPT,Huobi Pool Token,crypto,,,,crypti/cryptocurrencies
@@ -12452,7 +12452,7 @@ stock:JPM$J,JPM$J,JPMorgan Chase & Co.,stock,NYSE,United States,Financial Servic
 stock:JPM$K,JPM$K,JPMorgan Chase & Co.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:JPM$L,JPM$L,JPMorgan Chase & Co.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:JPM$M,JPM$M,JPMorgan Chase & Co.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-etf:JPMB,JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:JPMB,JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
 etf:JPME,JPME,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:JPND,JPND,MicroSectors -3× Short Japan Etns,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:JPNU,JPNU,MicroSectors 3× Long Japan Etns,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -13336,9 +13336,9 @@ crypto:LEAN,LEAN,Lean Management,crypto,,,,crypti/cryptocurrencies
 crypto:LEASH,LEASH,Doge Killer,crypto,,,,crypti/cryptocurrencies
 stock:LECO,LECO,"Lincoln Electric Holdings, Inc.",stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
 crypto:LED,LED,LEDGIS,crypto,,,,crypti/cryptocurrencies
-stock:LEDR,LEDR,Leader's Advantage Acquisition Corp. Class A Ordinary Shares,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
+stock:LEDR,LEDR,Leader's Advantage Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:LEDRU,LEDRU,Leader's Advantage Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
-stock:LEDRW,LEDRW,Leader's Advantage Acquisition Corp. Warrants,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
+stock:LEDRW,LEDRW,Leader's Advantage Acquisition Corp.,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 stock:LEDS,LEDS,SemiLEDs Corporation,stock,NasdaqCM,Taiwan,Technology,nasdaqtrader+yfinance
 crypto:LEDU,LEDU,Education Ecosystem,crypto,,,,crypti/cryptocurrencies
 crypto:LEE,LEE,Love Earn Enjoy,crypto,,,,crypti/cryptocurrencies
@@ -17032,7 +17032,7 @@ crypto:OTHR,OTHR,OtherDAO,crypto,,,,crypti/cryptocurrencies
 stock:OTIS,OTIS,Otis Worldwide Corporation,stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 crypto:OTK,OTK,Octokn,crypto,,,,crypti/cryptocurrencies
 stock:OTLK,OTLK,"Outlook Therapeutics, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
-stock:OTLY,OTLY,Oatly Group AB,stock,NasdaqGS,Sweden,Consumer Defensive,nasdaqtrader+yfinance
+stock:OTLY,OTLY,Oatly Group AB (publ),stock,NasdaqGS,Sweden,Consumer Defensive,nasdaqtrader+yfinance
 crypto:OTN,OTN,Open Trading Network,crypto,,,,crypti/cryptocurrencies
 crypto:OTO,OTO,OTOCASH,crypto,,,,crypti/cryptocurrencies
 crypto:OTSEA,OTSEA,OTSea,crypto,,,,crypti/cryptocurrencies
