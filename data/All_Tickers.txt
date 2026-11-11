@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13749 unique tickers
+# Total: 13757 unique tickers
 A
 AA
 AAA
@@ -5971,6 +5971,7 @@ IBIO
 IBIT
 IBKR
 IBLC
+IBLY
 IBM
 IBMO
 IBMP
@@ -6364,6 +6365,10 @@ IQ
 IQDF
 IQDG
 IQDY
+IQEE
+IQEI
+IQEL
+IQES
 IQGR
 IQHI
 IQI
@@ -10765,7 +10770,10 @@ SCOW
 SCPQ
 SCPQU
 SCPQW
+SCQC
+SCQCR
 SCQCU
+SCQCW
 SCSB
 SCSC
 SCSE
