@@ -404,7 +404,7 @@ stock:ADGM,ADGM,"Adagio Medical Holdings, Inc.",stock,NasdaqCM,United States,Hea
 crypto:ADH,ADH,Adhive,crypto,,,,crypti/cryptocurrencies
 crypto:ADI,ADI,Aditus,crypto,,,,crypti/cryptocurrencies
 stock:ADI,ADI,"Analog Devices, Inc.",stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
-stock:ADIG,ADIG,ADI Global Distribution Inc.,stock,NYSE,United States,Technology,nasdaqtrader+yfinance
+stock:ADIG,ADIG,ADI Global Distribution Inc,stock,NYSE,United States,Technology,nasdaqtrader+yfinance
 stock:ADIL,ADIL,"Adial Pharmaceuticals, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 etf:ADIU,ADIU,Leverage Shares 2X Long ADI Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:ADIV,ADIV,Guinness Atkinson Asia Pacific Dividend Builder ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -1070,7 +1070,7 @@ stock:AMPY,AMPY,Amplify Energy Corp.,stock,NYSE,United States,Energy,nasdaqtrade
 stock:AMR,AMR,"Alpha Metallurgical Resources, Inc.",stock,NYSE,United States,Basic Materials,nasdaqtrader+yfinance
 stock:AMRC,AMRC,"Ameresco, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 stock:AMRN,AMRN,Amarin Corporation plc,stock,NasdaqCM,Ireland,Healthcare,nasdaqtrader+yfinance
-stock:AMRO,AMRO,Amaero Inc.,stock,NasdaqCM,United States,Basic Materials,nasdaqtrader+yfinance
+stock:AMRO,AMRO,Amaero Inc.,stock,NasdaqCM,United States,Industrials,nasdaqtrader+yfinance
 stock:AMRX,AMRX,"Amneal Pharmaceuticals, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 stock:AMRZ,AMRZ,Amrize Ltd,stock,NYSE,Switzerland,Basic Materials,nasdaqtrader+yfinance
 crypto:AMS,AMS,Amsterdam Coin,crypto,,,,crypti/cryptocurrencies
@@ -1179,7 +1179,7 @@ crypto:ANTEX,ANTEX,Antex,crypto,,,,crypti/cryptocurrencies
 crypto:ANTI,ANTI,Anti Bitcoin,crypto,,,,crypti/cryptocurrencies
 crypto:ANTIS,ANTIS,Antis Inu,crypto,,,,crypti/cryptocurrencies
 crypto:ANTS,ANTS,ANTS Reloaded,crypto,,,,crypti/cryptocurrencies
-etf:ANTW,ANTW,Harbor ETF Trust - Anthropic AI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:ANTW,ANTW,Anthropic AI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:ANTX,ANTX,"AN2 Therapeutics, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ANUS,ANUS,URANUS,crypto,,,,crypti/cryptocurrencies
 crypto:ANV,ANV,Aniverse,crypto,,,,crypti/cryptocurrencies
@@ -1531,8 +1531,8 @@ stock:ASB$E,ASB$E,Associated Banc-Corp,stock,NYSE,United States,Financial Servic
 stock:ASB$F,ASB$F,Associated Banc-Corp,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:ASBA,ASBA,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033,stock,NYSE,,,nasdaqtrader+yfinance
 stock:ASBH,ASBH,"American Savings Bank, National Association",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-stock:ASBP,ASBP,"Aspire Biopharma Holdings, Inc.",stock,NasdaqCM,United States,Consumer Cyclical,nasdaqtrader+yfinance
-stock:ASBPW,ASBPW,"Aspire Biopharma Holdings, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
+stock:ASBP,ASBP,"Aspire-Lakewood Holdings, Inc.",stock,NasdaqCM,United States,Consumer Cyclical,nasdaqtrader+yfinance
+stock:ASBPW,ASBPW,"Aspire-Lakewood Holdings, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 crypto:ASC,ASC,Ascend,crypto,,,,crypti/cryptocurrencies
 stock:ASC,ASC,Ardmore Shipping Corporation,stock,NYSE,Bermuda,Industrials,nasdaqtrader+yfinance
 etf:ASCE,ASCE,Allspring SMID Core ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -1680,10 +1680,10 @@ stock:ATLCP,ATLCP,Atlanticus Holdings Corporation,stock,NasdaqGS,United States,F
 stock:ATLCZ,ATLCZ,Atlanticus Holdings Corporation 9.25% Senior Notes due 2029,stock,NasdaqGM,,,nasdaqtrader+yfinance
 stock:ATLN,ATLN,Atlantic International Corp.,stock,NasdaqGM,United States,Industrials,nasdaqtrader+yfinance
 stock:ATLO,ATLO,Ames National Corporation,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
-stock:ATLQ,ATLQ,JAB Acquisition Corp I,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
-stock:ATLQR,ATLQR,JAB Acquisition Corp I,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
-stock:ATLQU,ATLQU,JAB Acquisition Corp I,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
-stock:ATLQW,ATLQW,JAB Acquisition Corp I,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
+stock:ATLQ,ATLQ,JAB Acquisition Corp I Class A Ordinary Shares,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
+stock:ATLQR,ATLQR,JAB Acquisition Corp I Rights,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
+stock:ATLQU,ATLQU,JAB Acquisition Corp I Unit,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
+stock:ATLQW,ATLQW,JAB Acquisition Corp I Warrants,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 crypto:ATLX,ATLX,Atlantis Loans Polygon,crypto,,,,crypti/cryptocurrencies
 stock:ATLX,ATLX,Atlas Lithium Corporation,stock,NasdaqCM,Brazil,Basic Materials,nasdaqtrader+yfinance
 crypto:ATM,ATM,Atletico de Madrid Fan Token,crypto,,,,crypti/cryptocurrencies
@@ -2594,7 +2594,7 @@ stock:BGMS,BGMS,"Bio Green Med Solution, Inc.",stock,NasdaqCM,Malaysia,Industria
 crypto:BGONE,BGONE,BigONE Token,crypto,,,,crypti/cryptocurrencies
 crypto:BGPT,BGPT,BlockGPT,crypto,,,,crypti/cryptocurrencies
 stock:BGR,BGR,BlackRock Energy and Resources Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-stock:BGRD,BGRD,BNY Mellon ETF Trust II - BNY Mellon Power Infrastructure ETF,stock,NYSE American,United States,,nasdaqtrader+yfinance
+stock:BGRD,BGRD,BNY Mellon Power Ecosystem ETF,stock,NYSE American,,,nasdaqtrader+yfinance
 etf:BGRN,BGRN,iShares USD Green Bond ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:BGRO,BGRO,iShares Large Cap Growth Active ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:BGS,BGS,Battle of Guardians Share,crypto,,,,crypti/cryptocurrencies
@@ -2602,7 +2602,7 @@ stock:BGS,BGS,"B&G Foods, Inc.",stock,NYSE,United States,Consumer Defensive,nasd
 stock:BGSF,BGSF,"BGSF, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 stock:BGSI,BGSI,Boyd Group Services Inc.,stock,NYSE,Canada,Consumer Cyclical,nasdaqtrader+yfinance
 stock:BGT,BGT,BlackRock Floating Rate Income Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-etf:BGUS,BGUS,Baillie Gifford U.S. Equity Growth ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+etf:BGUS,BGUS,Baillie Gifford ETF Trust - Baillie Gifford U.S. Equity Growth ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:BGVT,BGVT,Bit Game Verse Token,crypto,,,,crypti/cryptocurrencies
 stock:BGX,BGX,Blackstone Long-Short Credit Income Fund,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:BGY,BGY,BlackRock Enhanced International Dividend Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -3383,7 +3383,7 @@ stock:BRN,BRN,"Barnwell Industries, Inc.",stock,NYSE American,United States,Ener
 crypto:BRNK,BRNK,Brank,crypto,,,,crypti/cryptocurrencies
 stock:BRNS,BRNS,Barinthus Biotherapeutics plc,stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:BRNX,BRNX,Bronix,crypto,,,,crypti/cryptocurrencies
-stock:BRNX,BRNX,Brenmiller Energy Ltd,stock,NasdaqCM,Israel,Utilities,nasdaqtrader+yfinance
+stock:BRNX,BRNX,BrenX Ltd.,stock,NasdaqCM,Israel,Utilities,nasdaqtrader+yfinance
 etf:BRNY,BRNY,Burney U.S. Factor Rotation ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:BRO,BRO,Bitradio,crypto,,,,crypti/cryptocurrencies
 stock:BRO,BRO,"Brown & Brown, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -4076,7 +4076,7 @@ stock:CATX,CATX,"Perspective Therapeutics, Inc.",stock,NYSE American,United Stat
 stock:CATY,CATY,Cathay General Bancorp,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 crypto:CATZ,CATZ,CatzCoin,crypto,,,,crypti/cryptocurrencies
 crypto:CAU,CAU,Canxium,crypto,,,,crypti/cryptocurrencies
-etf:CAUG,CAUG,Corgi U.S. Equities 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:CAUG,CAUG,Corgi ETF Trust I - Corgi U.S. Equities 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:CAVA,CAVA,Cavapoo,crypto,,,,crypti/cryptocurrencies
 stock:CAVA,CAVA,"CAVA Group, Inc.",stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:CAVADA,CAVADA,Cavada,crypto,,,,crypti/cryptocurrencies
@@ -4244,7 +4244,7 @@ stock:CCXI,CCXI,Churchill Capital Corp XI,stock,NasdaqGM,United States,Financial
 stock:CCXIU,CCXIU,Churchill Capital Corp XI,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:CCXIW,CCXIW,Churchill Capital Corp XI,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 crypto:CCXX,CCXX,CounosX,crypto,,,,crypti/cryptocurrencies
-stock:CCZ,CCZ,Comcast Holdings Corp.,stock,NYSE,,,nasdaqtrader+yfinance
+stock:CCZ,CCZ,Comcast Holdings ZONES,stock,NYSE,,,nasdaqtrader+yfinance
 stock:CD,CD,Chaince Digital Holdings Inc.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 crypto:CDAI,CDAI,Compound Dai,crypto,,,,crypti/cryptocurrencies
 etf:CDC,CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -4370,7 +4370,7 @@ crypto:CFLASH,CFLASH,Flash,crypto,,,,crypti/cryptocurrencies
 crypto:CFLO,CFLO,Chain Flowers,crypto,,,,crypti/cryptocurrencies
 stock:CFND,CFND,C1 Fund Inc.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 etf:CFO,CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-stock:CFR,CFR,"Cullen/Frost Bankers, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
+stock:CFR,CFR,"Cullen/Frost Bankers, Inc.",stock,NYSE American,United States,Financial Services,nasdaqtrader+yfinance
 stock:CFR$B,CFR$B,"Cullen/Frost Bankers, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:CFT,CFT,CryptoForecast,crypto,,,,crypti/cryptocurrencies
 stock:CFTR$A,CFTR$A,"Cantor Fitzgerald Income Trust, Inc.",stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
@@ -4740,7 +4740,7 @@ etf:CLOB,CLOB,VanEck AA-BB CLO ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:CLOC,CLOC,AAM Crescent Clo ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:CLOD,CLOD,Themes Cloud Computing ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:CLOI,CLOI,VanEck CLO ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:CLOO,CLOO,NYLIM Investment Grade CLO ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:CLOO,CLOO,NYLI Investment Grade CLO ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:CLORE,CLORE,Clore.ai,crypto,,,,crypti/cryptocurrencies
 etf:CLOU,CLOU,Global X Cloud Computing ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:CLOUD,CLOUD,Metacloud,crypto,,,,crypti/cryptocurrencies
@@ -5154,7 +5154,7 @@ etf:CPII,CPII,American Beacon Ionic Inflation Protection ETF,etf,NYSEArca,,,nasd
 stock:CPIX,CPIX,Cumberland Pharmaceuticals Inc.,stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 stock:CPK,CPK,Chesapeake Utilities Corporation,stock,NYSE,United States,Utilities,nasdaqtrader+yfinance
 crypto:CPL,CPL,CoinPlace Token,crypto,,,,crypti/cryptocurrencies
-etf:CPLB,CPLB,NYLIM MacKay Core Plus Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:CPLB,CPLB,NYLI MacKay Core Plus Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:CPLO,CPLO,Cpollo,crypto,,,,crypti/cryptocurrencies
 etf:CPLS,CPLS,AB Core Plus Bond ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:CPN,CPN,CompuCoin,crypto,,,,crypti/cryptocurrencies
@@ -5326,6 +5326,7 @@ stock:CRMD,CRMD,CorMedix Inc.,stock,NasdaqGM,United States,Healthcare,nasdaqtrad
 etf:CRMG,CRMG,Leverage Shares 2X Long CRM Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:CRML,CRML,Critical Metals Corp.,stock,NasdaqGM,United States,Basic Materials,nasdaqtrader+yfinance
 stock:CRMLW,CRMLW,Critical Metals Corp.,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
+stock:CRMN,CRMN,Skyline Builders Group Holding Limited Class A Ordinary Shares,stock,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:CRMS,CRMS,Cryptomus,crypto,,,,crypti/cryptocurrencies
 stock:CRMT,CRMT,"America's Car-Mart, Inc.",stock,NasdaqGS,United States,Consumer Cyclical,nasdaqtrader+yfinance
 etf:CRMU,CRMU,Leverage Shares 2X Long CRML Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -5381,7 +5382,7 @@ stock:CRVS,CRVS,"Corvus Pharmaceuticals, Inc.",stock,NasdaqGM,United States,Heal
 crypto:CRVUSD,CRVUSD,crvUSD,crypto,,,,crypti/cryptocurrencies
 crypto:CRVY,CRVY,Curve Inu,crypto,,,,crypti/cryptocurrencies
 crypto:CRW,CRW,Crown Coin,crypto,,,,crypti/cryptocurrencies
-etf:CRWC,CRWC,Corgi CRWD 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:CRWC,CRWC,Corgi ETF Trust I - Corgi CRWD 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:CRWD,CRWD,CRWD Network,crypto,,,,crypti/cryptocurrencies
 stock:CRWD,CRWD,"CrowdStrike Holdings, Inc.",stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
 etf:CRWG,CRWG,Leverage Shares 2X Long CRWV Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -5480,7 +5481,7 @@ etf:CTAG,CTAG,Calamos Timpani Active SMID Growth ETF,etf,TXSE,,,nasdaqtrader+yfi
 etf:CTAP,CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:CTAS,CTAS,Cintas Corporation,stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
 crypto:CTASK,CTASK,CryptoTask,crypto,,,,crypti/cryptocurrencies
-etf:CTAU,CTAU,Corgi U.S. Equities 30% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:CTAU,CTAU,Corgi ETF Trust I - Corgi U.S. Equities 30% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:CTBI,CTBI,"Community Trust Bancorp, Inc.",stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 crypto:CTC,CTC,Creditcoin,crypto,,,,crypti/cryptocurrencies
 crypto:CTCN,CTCN,Contracoin,crypto,,,,crypti/cryptocurrencies
@@ -5490,9 +5491,9 @@ etf:CTEF,CTEF,Castellan Targeted Equity ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:CTEV,CTEV,Claritev Corporation,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
 crypto:CTF,CTF,CyberTime Finance,crypto,,,,crypti/cryptocurrencies
 crypto:CTG,CTG,City Tycoon Games,crypto,,,,crypti/cryptocurrencies
-stock:CTGG,CTGG,Qwest Corporation 6.500% Senior Notes due 2051,stock,NasdaqGS,,,nasdaqtrader+yfinance
+stock:CTGG,CTGG,Qwest Corporation 6.500% Senior Notes due 2051,stock,NYSE,,,nasdaqtrader+yfinance
 stock:CTGO,CTGO,Contango Silver & Gold Inc.,stock,NYSE American,United States,Basic Materials,nasdaqtrader+yfinance
-stock:CTHH,CTHH,Qwest Corporation 6.750% Senior Notes due 2052,stock,NasdaqGS,,,nasdaqtrader+yfinance
+stock:CTHH,CTHH,Qwest Corporation 6.750% Senior Notes due 2052,stock,NYSE,,,nasdaqtrader+yfinance
 crypto:CTI,CTI,ClinTex CTi,crypto,,,,crypti/cryptocurrencies
 crypto:CTIC,CTIC,Coinmatic,crypto,,,,crypti/cryptocurrencies
 etf:CTIF,CTIF,Castellan Targeted Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -5763,7 +5764,7 @@ crypto:DACC,DACC,Decentralized Accessible Content Chain,crypto,,,,crypti/cryptoc
 crypto:DACC2,DACC2,DACC2,crypto,,,,crypti/cryptocurrencies
 crypto:DACH,DACH,DACH Coin,crypto,,,,crypti/cryptocurrencies
 crypto:DACKIE,DACKIE,DackieSwap,crypto,,,,crypti/cryptocurrencies
-etf:DACL,DACL,REX ETF Trust - REX Defensive Autocallable Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:DACL,DACL,REX Defensive Autocallable Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:DACS,DACS,Dacsee,crypto,,,,crypti/cryptocurrencies
 crypto:DACXI,DACXI,Dacxi,crypto,,,,crypti/cryptocurrencies
 crypto:DAD,DAD,DAD,crypto,,,,crypti/cryptocurrencies
@@ -6091,7 +6092,7 @@ crypto:DEOR,DEOR,Decentralized Oracle,crypto,,,,crypti/cryptocurrencies
 crypto:DEP,DEP,DEAPCOIN,crypto,,,,crypti/cryptocurrencies
 crypto:DEPO,DEPO,Depo,crypto,,,,crypti/cryptocurrencies
 crypto:DEPTH,DEPTH,Depth Token,crypto,,,,crypti/cryptocurrencies
-etf:DEPW,DEPW,Harbor ETF Trust - Google DeepMind AI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:DEPW,DEPW,Google DeepMind AI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:DEQ,DEQ,Dequant,crypto,,,,crypti/cryptocurrencies
 crypto:DERC,DERC,DeRace,crypto,,,,crypti/cryptocurrencies
 crypto:DERI,DERI,Deri Protocol,crypto,,,,crypti/cryptocurrencies
@@ -6799,7 +6800,7 @@ crypto:DTH,DTH,Dether,crypto,,,,crypti/cryptocurrencies
 etf:DTH,DTH,WisdomTree International High Dividend Fund,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:DTI,DTI,Drilling Tools International Corporation,stock,NasdaqCM,United States,Energy,nasdaqtrader+yfinance
 stock:DTIL,DTIL,"Precision BioSciences, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
-stock:DTK,DTK,DTE Energy Company 2025 Series ,stock,NYSE,,,nasdaqtrader+yfinance
+stock:DTK,DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,stock,NYSE,,,nasdaqtrader+yfinance
 stock:DTM,DTM,"DT Midstream, Inc.",stock,NYSE,United States,Energy,nasdaqtrader+yfinance
 crypto:DTN,DTN,Datareum,crypto,,,,crypti/cryptocurrencies
 crypto:DTO,DTO,DotOracle,crypto,,,,crypti/cryptocurrencies
@@ -6988,7 +6989,7 @@ stock:DYORW,DYORW,Insight Digital Partners II,stock,NasdaqGM,United States,,nasd
 crypto:DYP,DYP,Dypius,crypto,,,,crypti/cryptocurrencies
 crypto:DYST,DYST,Dystopia,crypto,,,,crypti/cryptocurrencies
 crypto:DYT,DYT,DoYourTip,crypto,,,,crypti/cryptocurrencies
-etf:DYTA,DYTA,SGI Dynamic Tactical ETF,etf,,,,nasdaqtrader+yfinance
+etf:DYTA,DYTA,SGI Dynamic Tactical ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:DYZILLA,DYZILLA,DYZilla,crypto,,,,crypti/cryptocurrencies
 crypto:DZAR,DZAR,Digital Rand,crypto,,,,crypti/cryptocurrencies
 crypto:DZCC,DZCC,DZCC,crypto,,,,crypti/cryptocurrencies
@@ -7019,10 +7020,10 @@ etf:EALT,EALT,Innovator U.S. Equity 5 To 15 Buffer ETF - Quarterly,etf,Cboe US,,
 etf:EAPR,EAPR,Innovator Emerging Markets Power Buffer ETF - April,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EARN,EARN,EarnGuild,crypto,,,,crypti/cryptocurrencies
 stock:EARN,EARN,Ellington Credit Company,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-etf:EART,EART,Global X Rare Earth & Critical Materials ETF,etf,,,,nasdaqtrader+yfinance
+etf:EART,EART,Global X Rare Earth & Critical Materials ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:EARTH,EARTH,Earth Token,crypto,,,,crypti/cryptocurrencies
 crypto:EARTHCOIN,EARTHCOIN,EarthCoin,crypto,,,,crypti/cryptocurrencies
-etf:EASY,EASY,Liberty One Defensive Dividend Growth ETF,etf,,,,nasdaqtrader+yfinance
+etf:EASY,EASY,Liberty One Defensive Dividend Growth ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:EASYF,EASYF,EasyFeedback,crypto,,,,crypti/cryptocurrencies
 crypto:EAT,EAT,EDGE Activity Token,crypto,,,,crypti/cryptocurrencies
 stock:EAT,EAT,"Brinker International, Inc.",stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
@@ -7030,20 +7031,20 @@ crypto:EAURIC,EAURIC,Eauric,crypto,,,,crypti/cryptocurrencies
 crypto:EB3,EB3,EB3coin,crypto,,,,crypti/cryptocurrencies
 crypto:EBA,EBA,Elpis Battle,crypto,,,,crypti/cryptocurrencies
 crypto:EBASE,EBASE,EURBASE,crypto,,,,crypti/cryptocurrencies
-stock:EBAY,EBAY,eBay Inc. - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:EBAY,EBAY,eBay Inc.,stock,NasdaqGS,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:EBC,EBC,EBCoin,crypto,,,,crypti/cryptocurrencies
-stock:EBC,EBC,"Eastern Bankshares, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EBC,EBC,"Eastern Bankshares, Inc.",stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 crypto:EBEN,EBEN,Green Ben,crypto,,,,crypti/cryptocurrencies
 crypto:EBET,EBET,EthBet,crypto,,,,crypti/cryptocurrencies
 stock:EBF,EBF,"Ennis, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
-etf:EBI,EBI,Longview Advantage ETF,etf,,,,nasdaqtrader+yfinance
+etf:EBI,EBI,Longview Advantage ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:EBIT,EBIT,eBit,crypto,,,,crypti/cryptocurrencies
 etf:EBIT,EBIT,Harbor Small Cap Earners ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:EBIZ,EBIZ,Global X E-commerce ETF,etf,,,,nasdaqtrader+yfinance
+etf:EBIZ,EBIZ,Global X E-commerce ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:EBK,EBK,Ebakus,crypto,,,,crypti/cryptocurrencies
-stock:EBMT,EBMT,"Eagle Bancorp Montana, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EBMT,EBMT,"Eagle Bancorp Montana, Inc.",stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 etf:EBND,EBND,State Street SPDR Bloomberg Emerging Markets Local Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:EBON,EBON,Ebang International Holdings Inc. - Class A Ordinary Shares,stock,,,,nasdaqtrader+yfinance
+stock:EBON,EBON,Ebang International Holdings Inc.,stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
 crypto:EBOX,EBOX,Ethbox Token,crypto,,,,crypti/cryptocurrencies
 crypto:EBS,EBS,EbolaShare,crypto,,,,crypti/cryptocurrencies
 stock:EBS,EBS,Emergent BioSolutions Inc.,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
@@ -7059,7 +7060,7 @@ stock:EC,EC,Ecopetrol S.A.,stock,NYSE,Colombia,Energy,nasdaqtrader+yfinance
 crypto:ECA,ECA,Electra,crypto,,,,crypti/cryptocurrencies
 crypto:ECASH,ECASH,Ethereum Cash,crypto,,,,crypti/cryptocurrencies
 stock:ECAT,ECAT,BlackRock ESG Capital Allocation Term Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-stock:ECBK,ECBK,"ECB Bancorp, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:ECBK,ECBK,"ECB Bancorp, Inc.",stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 crypto:ECC,ECC,Etherconnect,crypto,,,,crypti/cryptocurrencies
 stock:ECC,ECC,Eagle Point Credit Company,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:ECC$D,ECC$D,Eagle Point Credit Company,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -7075,9 +7076,9 @@ stock:ECG,ECG,"Everus Construction Group, Inc.",stock,NYSE,United States,Industr
 crypto:ECH,ECH,EthereCash,crypto,,,,crypti/cryptocurrencies
 etf:ECH,ECH,iShares MSCI Chile ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:ECHO,ECHO,ECHO BOT,crypto,,,,crypti/cryptocurrencies
-stock:ECHO,ECHO,EchoStar Corporation - Common stock,stock,,,,nasdaqtrader+yfinance
+stock:ECHO,ECHO,EchoStar Corporation,stock,NasdaqGS,United States,Communication Services,nasdaqtrader+yfinance
 crypto:ECHT,ECHT,e-Chat,crypto,,,,crypti/cryptocurrencies
-etf:ECHX,ECHX,Leverage Shares 2X Long ECHO Daily ETF,etf,,,,nasdaqtrader+yfinance
+etf:ECHX,ECHX,Leverage Shares 2X Long ECHO Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:ECL,ECL,Ecolab Inc.,stock,NYSE,United States,Basic Materials,nasdaqtrader+yfinance
 crypto:ECLD,ECLD,Ethernity Cloud,crypto,,,,crypti/cryptocurrencies
 crypto:ECLIP,ECLIP,Eclipse,crypto,,,,crypti/cryptocurrencies
@@ -7092,26 +7093,26 @@ crypto:ECOFI,ECOFI,EcoFi,crypto,,,,crypti/cryptocurrencies
 crypto:ECOIN,ECOIN,Ecoin,crypto,,,,crypti/cryptocurrencies
 crypto:ECOM,ECOM,Omnitude,crypto,,,,crypti/cryptocurrencies
 etf:ECON,ECON,Columbia Research Enhanced Emerging Economies ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:ECOR,ECOR,"electroCore, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:ECOR,ECOR,"electroCore, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ECOREAL,ECOREAL,Ecoreal Estate,crypto,,,,crypti/cryptocurrencies
 crypto:ECOTERRA,ECOTERRA,ecoterra,crypto,,,,crypti/cryptocurrencies
-etf:ECOW,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,etf,,,,nasdaqtrader+yfinance
+etf:ECOW,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:ECOX,ECOX,ECOx,crypto,,,,crypti/cryptocurrencies
 crypto:ECP,ECP,ECP+ Technology,crypto,,,,crypti/cryptocurrencies
-stock:ECPG,ECPG,Encore Capital Group Inc - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:ECPG,ECPG,"Encore Capital Group, Inc.",stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 crypto:ECR,ECR,EcoVerse,crypto,,,,crypti/cryptocurrencies
 crypto:ECS,ECS,eCredits,crypto,,,,crypti/cryptocurrencies
 crypto:ECT,ECT,SuperEdge,crypto,,,,crypti/cryptocurrencies
 crypto:ECTE,ECTE,EurocoinToken,crypto,,,,crypti/cryptocurrencies
 crypto:ECU,ECU,ECOSC,crypto,,,,crypti/cryptocurrencies
 stock:ECVT,ECVT,Ecovyst Inc.,stock,NYSE,United States,Basic Materials,nasdaqtrader+yfinance
-stock:ECX,ECX,ECARX Holdings Inc. - Class A Ordinary shares,stock,,,,nasdaqtrader+yfinance
-stock:ECXWW,ECXWW,ECARX Holdings Inc. - Warrants,stock,,,,nasdaqtrader+yfinance
+stock:ECX,ECX,ECARX Holdings Inc.,stock,NasdaqGM,United Kingdom,Consumer Cyclical,nasdaqtrader+yfinance
+stock:ECXWW,ECXWW,ECARX Holdings Inc.,stock,NasdaqCM,United Kingdom,,nasdaqtrader+yfinance
 stock:ED,ED,"Consolidated Edison, Inc.",stock,NYSE,United States,Utilities,nasdaqtrader+yfinance
 stock:EDAP,EDAP,EDAP TMS S.A.,stock,NasdaqGM,France,Healthcare,nasdaqtrader+yfinance
 crypto:EDAT,EDAT,EnviDa,crypto,,,,crypti/cryptocurrencies
-stock:EDBL,EDBL,Edible Garden AG Incorporated - Common Stock,stock,,,,nasdaqtrader+yfinance
-stock:EDBLW,EDBLW,Edible Garden AG Incorporated - Warrant,stock,,,,nasdaqtrader+yfinance
+stock:EDBL,EDBL,Edible Garden AG Incorporated,stock,NasdaqCM,United States,Consumer Defensive,nasdaqtrader+yfinance
+stock:EDBLW,EDBLW,Edible Garden AG Incorporated,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 crypto:EDC,EDC,EDC Blockchain,crypto,,,,crypti/cryptocurrencies
 etf:EDC,EDC,Direxion Daily MSCI Emerging Markets Bull 3X Shares,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:EDD,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -7136,9 +7137,9 @@ etf:EDGQ,EDGQ,Global X Nasdaq-100 Income Edge ETF,etf,NYSEArca,,,nasdaqtrader+yf
 crypto:EDGT,EDGT,Edgecoin,crypto,,,,crypti/cryptocurrencies
 etf:EDGU,EDGU,3EDGE Dynamic US Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EDGX,EDGX,Global X U.S. 500 Income Edge ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:EDHL,EDHL,Everbright Digital Holding Limited - Ordinary Shares,stock,,,,nasdaqtrader+yfinance
+stock:EDHL,EDHL,Everbright Digital Holding Limited,stock,NasdaqCM,Hong Kong,Communication Services,nasdaqtrader+yfinance
 crypto:EDI,EDI,Freight Trust & Clearing Network,crypto,,,,crypti/cryptocurrencies
-stock:EDIT,EDIT,"Editas Medicine, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EDIT,EDIT,"Editas Medicine, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 etf:EDIV,EDIV,State Street SPDR S&P Emerging Markets Dividend ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EDLC,EDLC,Edelcoin,crypto,,,,crypti/cryptocurrencies
 crypto:EDN,EDN,EdenChain,crypto,,,,crypti/cryptocurrencies
@@ -7149,14 +7150,14 @@ crypto:EDOGE,EDOGE,ElonDoge,crypto,,,,crypti/cryptocurrencies
 etf:EDOW,EDOW,First Trust Dow 30 Equal Weight ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EDR,EDR,Endor Protocol Token,crypto,,,,crypti/cryptocurrencies
 crypto:EDRC,EDRC,EDRCoin,crypto,,,,crypti/cryptocurrencies
-stock:EDRY,EDRY,EuroDry Ltd. - Common Shares,stock,,,,nasdaqtrader+yfinance
-stock:EDSA,EDSA,"Edesa Biotech, Inc. - Common Shares",stock,,,,nasdaqtrader+yfinance
+stock:EDRY,EDRY,EuroDry Ltd.,stock,NasdaqCM,Greece,Industrials,nasdaqtrader+yfinance
+stock:EDSA,EDSA,"Edesa Biotech, Inc.",stock,NasdaqCM,Canada,Healthcare,nasdaqtrader+yfinance
 crypto:EDT,EDT,E-Drive Token,crypto,,,,crypti/cryptocurrencies
-stock:EDTK,EDTK,Skillful Craftsman Education Technology Limited - Ordinary Share,stock,,,,nasdaqtrader+yfinance
+stock:EDTK,EDTK,Skillful Craftsman Education Technology Limited,stock,NasdaqCM,China,Consumer Defensive,nasdaqtrader+yfinance
 crypto:EDU,EDU,Open Campus,crypto,,,,crypti/cryptocurrencies
 stock:EDU,EDU,New Oriental Education & Technology Group Inc.,stock,NYSE,China,Consumer Defensive,nasdaqtrader+yfinance
 crypto:EDUC,EDUC,EducoinV,crypto,,,,crypti/cryptocurrencies
-stock:EDUC,EDUC,Educational Development Corporation - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:EDUC,EDUC,Educational Development Corporation,stock,NasdaqGM,United States,Communication Services,nasdaqtrader+yfinance
 crypto:EDUCOIN,EDUCOIN,EduCoin,crypto,,,,crypti/cryptocurrencies
 crypto:EDUM,EDUM,EDUM,crypto,,,,crypti/cryptocurrencies
 crypto:EDUX,EDUX,Edufex,crypto,,,,crypti/cryptocurrencies
@@ -7166,12 +7167,12 @@ crypto:EDX,EDX,Equilibrium,crypto,,,,crypti/cryptocurrencies
 etf:EDZ,EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:EE,EE,"Excelerate Energy, Inc.",stock,NYSE,United States,Energy,nasdaqtrader+yfinance
 stock:EEA,EEA,"The European Equity Fund, Inc.",stock,NYSE,Germany,Financial Services,nasdaqtrader+yfinance
-etf:EEE,EEE,CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF,etf,,,,nasdaqtrader+yfinance
-stock:EEFT,EEFT,"Euronet Worldwide, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
-stock:EEIQ,EEIQ,EpicQuest Education Group International Limited - Common Stock,stock,,,,nasdaqtrader+yfinance
+etf:EEE,EEE,Cyber Hornet S&P 500And Ethereum 75/25 Strategy ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+stock:EEFT,EEFT,"Euronet Worldwide, Inc.",stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
+stock:EEIQ,EEIQ,EpicQuest Education Group International Limited,stock,NasdaqCM,United States,Consumer Defensive,nasdaqtrader+yfinance
 etf:EELV,EELV,Invesco S&P Emerging Markets Low Volatility ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EEM,EEM,iShares MSCI Emerging Markets ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:EEMA,EEMA,iShares MSCI Emerging Markets Asia ETF,etf,,,,nasdaqtrader+yfinance
+etf:EEMA,EEMA,iShares MSCI Emerging Markets Asia ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:EEMO,EEMO,Invesco S&P Emerging Markets Momentum ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EEMS,EEMS,iShares MSCI Emerging Markets Small-Cap ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EEMV,EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -7185,7 +7186,7 @@ etf:EEV,EEV,ProShares UltraShort MSCI Emerging Markets,etf,NYSEArca,,,nasdaqtrad
 etf:EFA,EFA,iShares MSCI EAFE ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EFAA,EFAA,Invesco MSCI EAFE Income Advantage ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EFAD,EFAD,ProShares MSCI EAFE Dividend Growers ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:EFAS,EFAS,Global X MSCI SuperDividend EAFE ETF,etf,,,,nasdaqtrader+yfinance
+etf:EFAS,EFAS,Global X MSCI SuperDividend EAFE ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:EFAV,EFAV,iShares MSCI EAFE Min Vol Factor ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:EFAX,EFAX,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EFBAI,EFBAI,EuroFootball AI,crypto,,,,crypti/cryptocurrencies
@@ -7206,15 +7207,15 @@ crypto:EFK,EFK,ReFork,crypto,,,,crypti/cryptocurrencies
 crypto:EFL,EFL,E-Gulden,crypto,,,,crypti/cryptocurrencies
 etf:EFNL,EFNL,iShares MSCI Finland ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:EFO,EFO,ProShares Ultra MSCI EAFE,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:EFOI,EFOI,"Energy Focus, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EFOI,EFOI,"Energy Focus, Inc.",stock,NasdaqCM,United States,Consumer Cyclical,nasdaqtrader+yfinance
 stock:EFOR,EFOR,"Everforth, Inc.",stock,NYSE,United States,Technology,nasdaqtrader+yfinance
 stock:EFR,EFR,Eaton Vance Senior Floating-Rate Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-etf:EFRA,EFRA,iShares Environmental Infrastructure and Industrials ETF,etf,,,,nasdaqtrader+yfinance
-stock:EFSC,EFSC,Enterprise Financial Services Corporation - Common Stock,stock,,,,nasdaqtrader+yfinance
-stock:EFSCP,EFSCP,"Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",stock,,,,nasdaqtrader+yfinance
-stock:EFSI,EFSI,Eagle Financial Services Inc - Common Stock,stock,,,,nasdaqtrader+yfinance
+etf:EFRA,EFRA,iShares Environmental Infrastructure and Industrials ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+stock:EFSC,EFSC,Enterprise Financial Services Corp,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
+stock:EFSCP,EFSCP,Enterprise Financial Services Corp,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
+stock:EFSI,EFSI,"Eagle Financial Services, Inc.",stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 stock:EFT,EFT,Eaton Vance Floating-Rate Income Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-stock:EFTY,EFTY,"Etoiles Capital Group Co., Ltd. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EFTY,EFTY,"Etoiles Capital Group Co., Ltd",stock,NasdaqCM,Hong Kong,Industrials,nasdaqtrader+yfinance
 etf:EFU,EFU,ProShares UltraShort MSCI EAFE,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:EFV,EFV,iShares MSCI EAFE Value ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:EFX,EFX,The Effect.ai,crypto,,,,crypti/cryptocurrencies
@@ -7224,10 +7225,10 @@ etf:EFZ,EFZ,ProShares Short MSCI EAFE,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EG,EG,EG Token,crypto,,,,crypti/cryptocurrencies
 stock:EG,EG,"Everest Group, Ltd.",stock,NYSE,Bermuda,Financial Services,nasdaqtrader+yfinance
 crypto:EGAME,EGAME,Every Game,crypto,,,,crypti/cryptocurrencies
-stock:EGAN,EGAN,eGain Corporation - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:EGAN,EGAN,eGain Corporation,stock,NasdaqCM,United States,Technology,nasdaqtrader+yfinance
 crypto:EGAS,EGAS,ETHGAS,crypto,,,,crypti/cryptocurrencies
 crypto:EGAZ,EGAZ,EGAZ,crypto,,,,crypti/cryptocurrencies
-stock:EGBN,EGBN,"Eagle Bancorp, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EGBN,EGBN,"Eagle Bancorp, Inc.",stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 crypto:EGC,EGC,EverGrowCoin,crypto,,,,crypti/cryptocurrencies
 crypto:EGCC,EGCC,Engine,crypto,,,,crypti/cryptocurrencies
 crypto:EGDC,EGDC,EasyGuide,crypto,,,,crypti/cryptocurrencies
@@ -7237,14 +7238,14 @@ stock:EGG,EGG,Enigmatig Limited,stock,NYSE American,Singapore,Industrials,nasdaq
 crypto:EGGC,EGGC,EggCoin,crypto,,,,crypti/cryptocurrencies
 crypto:EGGMAN,EGGMAN,Eggman Inu,crypto,,,,crypti/cryptocurrencies
 crypto:EGGP,EGGP,Eggplant Finance,crypto,,,,crypti/cryptocurrencies
-etf:EGGQ,EGGQ,NestYield Visionary ETF,etf,,,,nasdaqtrader+yfinance
+etf:EGGQ,EGGQ,NestYield Visionary ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:EGGS,EGGS,NestYield Total Return Guard ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EGGY,EGGY,EGGY,crypto,,,,crypti/cryptocurrencies
 etf:EGGY,EGGY,NestYield Dynamic Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:EGHA,EGHA,EGH Acquisition Corp. - Class A ordinary shares,stock,,,,nasdaqtrader+yfinance
-stock:EGHAR,EGHAR,EGH Acquisition Corp. - rights,stock,,,,nasdaqtrader+yfinance
-stock:EGHAU,EGHAU,EGH Acquisition Corp. - Unit,stock,,,,nasdaqtrader+yfinance
-stock:EGHT,EGHT,8x8 Inc - Common stock,stock,,,,nasdaqtrader+yfinance
+stock:EGHA,EGHA,EGH Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
+stock:EGHAR,EGHAR,EGH Acquisition Corp.,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
+stock:EGHAU,EGHAU,EGH Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
+stock:EGHT,EGHT,"8x8, Inc.",stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
 crypto:EGI,EGI,eGame,crypto,,,,crypti/cryptocurrencies
 crypto:EGLD,EGLD,eGold,crypto,,,,crypti/cryptocurrencies
 etf:EGLE,EGLE,Global X S&P 500 U.S. Revenue Leaders ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -7259,24 +7260,24 @@ crypto:EGT,EGT,Egretia,crypto,,,,crypti/cryptocurrencies
 etf:EGUS,EGUS,Ishares ESG Aware MSCI USA Growth ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:EGX,EGX,Enegra,crypto,,,,crypti/cryptocurrencies
 stock:EGY,EGY,"VAALCO Energy, Inc.",stock,NYSE,United States,Energy,nasdaqtrader+yfinance
-stock:EH,EH,EHang Holdings Limited - ADS,stock,,,,nasdaqtrader+yfinance
+stock:EH,EH,EHang Holdings Limited,stock,NasdaqGM,China,Industrials,nasdaqtrader+yfinance
 crypto:EHASH,EHASH,EHash,crypto,,,,crypti/cryptocurrencies
 stock:EHC,EHC,Encompass Health Corporation,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
 etf:EHCC,EHCC,Global X Ethereum Covered Call ,etf,Cboe US,,,nasdaqtrader+yfinance
-stock:EHGO,EHGO,Eshallgo Inc. - Class A Ordinary Shares,stock,,,,nasdaqtrader+yfinance
+stock:EHGO,EHGO,Eshallgo Inc.,stock,NasdaqCM,China,Industrials,nasdaqtrader+yfinance
 stock:EHI,EHI,Western Asset Global High Income Fund Inc.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:EHIVE,EHIVE,eHive,crypto,,,,crypti/cryptocurrencies
-stock:EHLD,EHLD,Euroholdings Ltd. - Common Stock,stock,,,,nasdaqtrader+yfinance
-etf:EHLS,EHLS,Even Herd Long Short ETF,etf,,,,nasdaqtrader+yfinance
+stock:EHLD,EHLD,Euroholdings Ltd.,stock,NasdaqCM,Greece,Industrials,nasdaqtrader+yfinance
+etf:EHLS,EHLS,Even Herd Long Short ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:EHRT,EHRT,Eight Hours Token,crypto,,,,crypti/cryptocurrencies
-stock:EHTH,EHTH,"eHealth, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EHTH,EHTH,"eHealth, Inc.",stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 etf:EHY,EHY,Amplify Ethereum Max Income Covered Call ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:EIC,EIC,Eagle Point Income Company,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 etf:EIDO,EIDO,iShares MSCI Indonesia ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EIFI,EIFI,EIFI FINANCE,crypto,,,,crypti/cryptocurrencies
 stock:EIG,EIG,"Employers Holdings, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:EIIA,EIIA,Eagle Point Institutional Income Fund,stock,NYSE,United States,,nasdaqtrader+yfinance
-stock:EIKN,EIKN,"Eikon Therapeutics, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:EIKN,EIKN,"Eikon Therapeutics, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 crypto:EIM,EIM,Expert Infra,crypto,,,,crypti/cryptocurrencies
 stock:EIM,EIM,Eaton Vance Municipal Bond Fund,stock,NYSE American,United States,Financial Services,nasdaqtrader+yfinance
 etf:EINC,EINC,VanEck Energy Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -7287,11 +7288,11 @@ etf:EIS,EIS,iShares MSCI Israel ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:EIX,EIX,Edison International,stock,NYSE,United States,Utilities,nasdaqtrader+yfinance
 crypto:EJAC,EJAC,EJA Coin,crypto,,,,crypti/cryptocurrencies
 etf:EJAN,EJAN,Innovator Emerging Markets Power Buffer ETF - January,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:EJH,EJH,E-Home Household Service Holdings Limited - Ordinary shares,stock,,,,nasdaqtrader+yfinance
+stock:EJH,EJH,E-Home Household Service Holdings Limited,stock,NasdaqCM,China,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:EJS,EJS,Enjinstarter,crypto,,,,crypti/cryptocurrencies
 etf:EJUL,EJUL,Innovator Emerging Markets Power Buffer ETF - July,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:EKG,EKG,Ekon Gold,crypto,,,,crypti/cryptocurrencies
-etf:EKG,EKG,First Trust Nasdaq Lux Digital Health Solutions ETF,etf,,,,nasdaqtrader+yfinance
+etf:EKG,EKG,First Trust Nasdaq Lux Digital Health Solutions ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:EKN,EKN,Elektron,crypto,,,,crypti/cryptocurrencies
 crypto:EKO,EKO,EchoLink,crypto,,,,crypti/cryptocurrencies
 crypto:EKS,EKS,Elumia Krystal Shards,crypto,,,,crypti/cryptocurrencies
@@ -7302,13 +7303,13 @@ crypto:EL,EL,ELYSIA,crypto,,,,crypti/cryptocurrencies
 stock:EL,EL,The Estée Lauder Companies Inc.,stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
 crypto:ELA,ELA,Elastos,crypto,,,,crypti/cryptocurrencies
 stock:ELA,ELA,Envela Corporation,stock,NYSE American,United States,Consumer Cyclical,nasdaqtrader+yfinance
-stock:ELAB,ELAB,PMGC Holdings Inc. - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:ELAB,ELAB,PMGC Holdings Inc.,stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ELAC,ELAC,ELA Coin,crypto,,,,crypti/cryptocurrencies
 crypto:ELAD,ELAD,ELAD Network,crypto,,,,crypti/cryptocurrencies
 crypto:ELAMA,ELAMA,Elamachain,crypto,,,,crypti/cryptocurrencies
 stock:ELAN,ELAN,Elanco Animal Health Incorporated,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ELAND,ELAND,Etherland,crypto,,,,crypti/cryptocurrencies
-stock:ELBM,ELBM,Electra Battery Materials Corporation - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:ELBM,ELBM,Electra Battery Materials Corporation,stock,NasdaqCM,Canada,Basic Materials,nasdaqtrader+yfinance
 crypto:ELC,ELC,Elacoin,crypto,,,,crypti/cryptocurrencies
 stock:ELC,ELC,"Entergy Louisiana, LLC COLLATERAL TR MT",stock,NYSE,,,nasdaqtrader+yfinance
 crypto:ELCASH,ELCASH,Electric Cash,crypto,,,,crypti/cryptocurrencies
@@ -7317,9 +7318,9 @@ etf:ELCV,ELCV,Eventide High Dividend ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:ELD,ELD,Electrum Dark,crypto,,,,crypti/cryptocurrencies
 etf:ELD,ELD,WisdomTree Emerging Markets Local Debt Fund,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:ELDA,ELDA,Eldarune,crypto,,,,crypti/cryptocurrencies
-stock:ELDN,ELDN,"Eledon Pharmaceuticals, Inc. - Common Stock",stock,,,,nasdaqtrader+yfinance
+stock:ELDN,ELDN,"Eledon Pharmaceuticals, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ELE,ELE,Elementrem,crypto,,,,crypti/cryptocurrencies
-stock:ELE,ELE,Elemental Royalty Corporation - Common Stock,stock,,,,nasdaqtrader+yfinance
+stock:ELE,ELE,Elemental Royalty Corporation,stock,NasdaqCM,Canada,Basic Materials,nasdaqtrader+yfinance
 crypto:ELEC,ELEC,Electrify.Asia,crypto,,,,crypti/cryptocurrencies
 crypto:ELECTRON,ELECTRON,Electron (Atomicals),crypto,,,,crypti/cryptocurrencies
 crypto:ELEMENTS,ELEMENTS,Elements,crypto,,,,crypti/cryptocurrencies
@@ -7331,11 +7332,11 @@ crypto:ELET,ELET,Elementeum,crypto,,,,crypti/cryptocurrencies
 crypto:ELF,ELF,aelf,crypto,,,,crypti/cryptocurrencies
 stock:ELF,ELF,"e.l.f. Beauty, Inc.",stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
 crypto:ELFI,ELFI,ELYFI,crypto,,,,crypti/cryptocurrencies
-etf:ELFY,ELFY,ALPS Electrification Infrastructure ETF,etf,,,,nasdaqtrader+yfinance
+etf:ELFY,ELFY,ALPS Electrification Infrastructure ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:ELG,ELG,EscoinToken,crypto,,,,crypti/cryptocurrencies
 crypto:ELI,ELI,GoCrypto,crypto,,,,crypti/cryptocurrencies
 crypto:ELIC,ELIC,Elicoin,crypto,,,,crypti/cryptocurrencies
-etf:ELIL,ELIL,Direxion Daily LLY Bull 2X ETF,etf,,,,nasdaqtrader+yfinance
+etf:ELIL,ELIL,Direxion Daily LLY Bull 2X Shares,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:ELITE,ELITE,EthereumLite,crypto,,,,crypti/cryptocurrencies
 crypto:ELIX,ELIX,Elixir,crypto,,,,crypti/cryptocurrencies
 crypto:ELIXIR,ELIXIR,Starchi,crypto,,,,crypti/cryptocurrencies
@@ -7350,9 +7351,9 @@ stock:ELMD,ELMD,"Electromed, Inc.",stock,NYSE American,United States,Healthcare,
 crypto:ELMO,ELMO,ELMOERC,crypto,,,,crypti/cryptocurrencies
 crypto:ELMON,ELMON,Elemon,crypto,,,,crypti/cryptocurrencies
 crypto:ELMT,ELMT,Element,crypto,,,,crypti/cryptocurrencies
-stock:ELMT,ELMT,The Elmet Group Co. - Common Stock,stock,,,,nasdaqtrader+yfinance
-stock:ELOG,ELOG,Eastern International Ltd. - Ordinary Shares,stock,,,,nasdaqtrader+yfinance
-etf:ELOL,ELOL,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF,etf,,,,nasdaqtrader+yfinance
+stock:ELMT,ELMT,The Elmet Group Co.,stock,NasdaqCM,United States,Industrials,nasdaqtrader+yfinance
+stock:ELOG,ELOG,Eastern International Ltd.,stock,NasdaqCM,China,Industrials,nasdaqtrader+yfinance
+etf:ELOL,ELOL,Leverage Shares 100% Tsla And 100% Spcx Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:ELON,ELON,Dogelon Mars,crypto,,,,crypti/cryptocurrencies
 crypto:ELON2024,ELON2024,ELON 2024(BSC),crypto,,,,crypti/cryptocurrencies
 crypto:ELON404,ELON404,Elon404,crypto,,,,crypti/cryptocurrencies
@@ -7365,7 +7366,7 @@ crypto:ELONIUM,ELONIUM,Elonium,crypto,,,,crypti/cryptocurrencies
 crypto:ELONMARS,ELONMARS,ELON MARS,crypto,,,,crypti/cryptocurrencies
 crypto:ELONONE,ELONONE,AstroElon,crypto,,,,crypti/cryptocurrencies
 crypto:ELONPEPE,ELONPEPE,Elon Pepe Robot,crypto,,,,crypti/cryptocurrencies
-stock:ELOX,ELOX,"Eloxx Pharmaceuticals, Inc.",stock,NasdaqCM,,,nasdaqtrader+yfinance
+stock:ELOX,ELOX,"Eloxx Pharmaceuticals, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ELP,ELP,Ellerium,crypto,,,,crypti/cryptocurrencies
 stock:ELPC,ELPC,Companhia Paranaense de Energia,stock,NYSE,Brazil,Utilities,nasdaqtrader+yfinance
 stock:ELPW,ELPW,Elong Power Holding Limited,stock,NasdaqCM,China,Industrials,nasdaqtrader+yfinance
@@ -7398,7 +7399,7 @@ crypto:EMAID,EMAID,MaidSafeCoin,crypto,,,,crypti/cryptocurrencies
 crypto:EMANATE,EMANATE,EMANATE,crypto,,,,crypti/cryptocurrencies
 crypto:EMAR,EMAR,EmaratCoin,crypto,,,,crypti/cryptocurrencies
 stock:EMAT,EMAT,Evolution Metals & Technologies Corp.,stock,NasdaqGM,United States,Basic Materials,nasdaqtrader+yfinance
-etf:EMAU,EMAU,Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:EMAU,EMAU,Corgi ETF Trust I - Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:EMAX,EMAX,EthereumMax,crypto,,,,crypti/cryptocurrencies
 crypto:EMB,EMB,Overline Emblem,crypto,,,,crypti/cryptocurrencies
 etf:EMB,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -8577,7 +8578,7 @@ etf:FIXP,FIXP,FolioBeyond Enhanced Fixed Income Premium ETF,etf,NYSEArca,,,nasda
 etf:FIXT,FIXT,TCW Core Plus Bond ETF,etf,NYSE,,,nasdaqtrader+yfinance
 etf:FIXX,FIXX,Leverage Shares 2X Long FIX Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:FIYY,FIYY,Graniteshares YieldBOOST 20Y+ Treasuries ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-etf:FIZY,FIZY,Fitz-Gerald Must Have Portfolio and Options Overlay ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:FIZY,FIZY,Tidal Trust II - Fitz-Gerald Must Have Portfolio and Options Overlay ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:FIZZ,FIZZ,National Beverage Corp.,stock,NasdaqGS,United States,Consumer Defensive,nasdaqtrader+yfinance
 etf:FJAN,FJAN,FT Vest U.S. Equity Buffer ETF - January,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:FJB,FJB,Freedom. Jobs. Business.,crypto,,,,crypti/cryptocurrencies
@@ -9460,7 +9461,7 @@ crypto:GCOIN,GCOIN,Galaxy Fight Club,crypto,,,,crypti/cryptocurrencies
 etf:GCOR,GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:GCOTI,GCOTI,COTI Governance Token,crypto,,,,crypti/cryptocurrencies
 etf:GCOW,GCOW,Pacer Global Cash Cows Dividend ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:GCPB,GCPB,Goldman Sachs Trust - Core Plus Bond Etf,etf,NYSE,,,nasdaqtrader+yfinance
+etf:GCPB,GCPB,Goldman Sachs Core Plus Bond ETF,etf,NYSE,,,nasdaqtrader+yfinance
 etf:GCPU,GCPU,Grayscale AI Compute ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:GCR,GCR,Global Currency Reserve,crypto,,,,crypti/cryptocurrencies
 etf:GCSH,GCSH,Guggenheim Ultra Short Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -9724,7 +9725,7 @@ stock:GILT,GILT,Gilat Satellite Networks Ltd.,stock,NasdaqGS,Israel,Technology,n
 crypto:GIM,GIM,Gimli,crypto,,,,crypti/cryptocurrencies
 crypto:GIMMER,GIMMER,Gimmer,crypto,,,,crypti/cryptocurrencies
 crypto:GIN,GIN,GINcoin,crypto,,,,crypti/cryptocurrencies
-etf:GINC,GINC,Goldman Sachs Income P,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:GINC,GINC,Goldman Sachs Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:GIND,GIND,Goldman Sachs India Equity ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:GINGER,GINGER,GINGER,crypto,,,,crypti/cryptocurrencies
 etf:GINN,GINN,Goldman Sachs Innovate Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -9808,6 +9809,7 @@ crypto:GLINK,GLINK,Gemlink,crypto,,,,crypti/cryptocurrencies
 crypto:GLINT,GLINT,BeamSwap,crypto,,,,crypti/cryptocurrencies
 etf:GLIX,GLIX,Lazard Listed Infrastructure ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:GLL,GLL,ProShares UltraShort Gold,etf,NYSEArca,,,nasdaqtrader+yfinance
+stock:GLLD,GLLD,"MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",stock,NYSE American,,,nasdaqtrader+yfinance
 crypto:GLM,GLM,Golem Network Token,crypto,,,,crypti/cryptocurrencies
 stock:GLMD,GLMD,Galmed Pharmaceuticals Ltd.,stock,NasdaqCM,Israel,Healthcare,nasdaqtrader+yfinance
 crypto:GLMR,GLMR,Moonbeam,crypto,,,,crypti/cryptocurrencies
@@ -10117,7 +10119,7 @@ crypto:GRAVITYF,GRAVITYF,Gravity Finance,crypto,,,,crypti/cryptocurrencies
 crypto:GRAYLL,GRAYLL,GRAYLL,crypto,,,,crypti/cryptocurrencies
 crypto:GRBE,GRBE,Green Beli,crypto,,,,crypti/cryptocurrencies
 stock:GRBK,GRBK,"Green Brick Partners, Inc.",stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
-stock:GRBK$A,GRBK$A,"Green Brick Partners, Inc.",stock,NYSE,,,nasdaqtrader+yfinance
+stock:GRBK$A,GRBK$A,"Green Brick Partners, Inc.",stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:GRBT,GRBT,Grinbit,crypto,,,,crypti/cryptocurrencies
 crypto:GRC,GRC,GreenCoin.AI,crypto,,,,crypti/cryptocurrencies
 stock:GRC,GRC,The Gorman-Rupp Company,stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
@@ -10154,7 +10156,7 @@ crypto:GRM,GRM,GridMaster,crypto,,,,crypti/cryptocurrencies
 crypto:GRMD,GRMD,GreenMed,crypto,,,,crypti/cryptocurrencies
 stock:GRML,GRML,Greenland Mines Ltd,stock,NasdaqCM,United States,Basic Materials,nasdaqtrader+yfinance
 stock:GRMLW,GRMLW,Greenland Mines Ltd,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
-stock:GRMN,GRMN,Garmin Ltd.,stock,NYSE,,,nasdaqtrader+yfinance
+stock:GRMN,GRMN,Garmin Ltd.,stock,NYSE,Switzerland,Technology,nasdaqtrader+yfinance
 crypto:GRN,GRN,GreenPower,crypto,,,,crypti/cryptocurrencies
 etf:GRN,GRN,iPath Series B Carbon ETN,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:GRNB,GRNB,VanEck Green Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -10491,7 +10493,7 @@ crypto:HAT,HAT,Hawala.Exchange,crypto,,,,crypti/cryptocurrencies
 crypto:HATAY,HATAY,Hatayspor Token,crypto,,,,crypti/cryptocurrencies
 crypto:HATCHY,HATCHY,Hatchyverse,crypto,,,,crypti/cryptocurrencies
 crypto:HATI,HATI,Hati,crypto,,,,crypti/cryptocurrencies
-etf:HAUG,HAUG,Corgi U.S. Equities 100% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:HAUG,HAUG,Corgi ETF Trust I - Corgi U.S. Equities 100% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:HAUS,HAUS,DAOhaus,crypto,,,,crypti/cryptocurrencies
 etf:HAUS,HAUS,Residential REIT ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:HAUZ,HAUZ,Xtrackers International Real Estate ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -10525,7 +10527,7 @@ crypto:HBD,HBD,Hive Dollar,crypto,,,,crypti/cryptocurrencies
 crypto:HBDC,HBDC,Happy Birthday Coin,crypto,,,,crypti/cryptocurrencies
 etf:HBDC,HBDC,Hilton Bdc Corporate Bond ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:HBE,HBE,healthbank,crypto,,,,crypti/cryptocurrencies
-etf:HBIL,HBIL,Harbor ETF Trust - Harbor Short Term Treasury ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:HBIL,HBIL,Harbor Short Term Treasury ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:HBIO,HBIO,"Harvard Bioscience, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:HBIT,HBIT,HashBit,crypto,,,,crypti/cryptocurrencies
 etf:HBIT,HBIT,Hedgeye Hedged Bitcoin ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -10658,7 +10660,7 @@ etf:HEWJ,HEWJ,iShares Currency Hedged MSCI Japan ETF,etf,NYSEArca,,,nasdaqtrader
 crypto:HEX,HEX,HEX,crypto,,,,crypti/cryptocurrencies
 crypto:HEXC,HEXC,HexCoin,crypto,,,,crypti/cryptocurrencies
 crypto:HEZ,HEZ,Hermez Network Token,crypto,,,,crypti/cryptocurrencies
-etf:HEZU,HEZU,iShares Currency Hedged MSCI Eurozone ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:HEZU,HEZU,iShares Currency Hedged MSCI Eu,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:HF,HF,Have Fun,crypto,,,,crypti/cryptocurrencies
 etf:HF,HF,DGA Core Plus Absolute Return ETF,etf,NYSE,,,nasdaqtrader+yfinance
 stock:HFBL,HFBL,"Home Federal Bancorp, Inc. of Louisiana",stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
@@ -10678,7 +10680,7 @@ etf:HFSI,HFSI,Hartford Funds Exchange-Traded Trust - Hartford Strategic Income E
 etf:HFSP,HFSP,TradersAI Large Cap Equity & Cash ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:HFT,HFT,Hashflow,crypto,,,,crypti/cryptocurrencies
 stock:HFWA,HFWA,Heritage Financial Corporation,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
-etf:HFXI,HFXI,NYLIM FTSE International Equity Currency Neutral ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:HFXI,HFXI,NYLI FTSE International Equity Currency Neutral ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:HG,HG,"Hamilton Insurance Group, Ltd.",stock,NYSE,Bermuda,Financial Services,nasdaqtrader+yfinance
 stock:HGBL,HGBL,Heritage Global Inc.,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 etf:HGER,HGER,Harbor Commodity All-Weather Strategy ETF,etf,NYSE,,,nasdaqtrader+yfinance
@@ -11122,7 +11124,7 @@ stock:HWBK,HWBK,"Hawthorn Bancshares, Inc.",stock,NasdaqGS,United States,Financi
 crypto:HWC,HWC,HollyWoodCoin,crypto,,,,crypti/cryptocurrencies
 stock:HWC,HWC,Hancock Whitney Corporation,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 stock:HWCPZ,HWCPZ,Hancock Whitney Corporation - 6,stock,NasdaqGS,,,nasdaqtrader+yfinance
-etf:HWGV,HWGV,Hotchkis & Wiley Global Value Fund ETF Class,etf,NasdaqGM,,,nasdaqtrader+yfinance
+etf:HWGV,HWGV,Hotchkis & Wiley Global Value Fund,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:HWH,HWH,HWH International Inc.,stock,NasdaqCM,United States,Consumer Cyclical,nasdaqtrader+yfinance
 etf:HWIV,HWIV,Hotchkis and Wiley International Value Fund ETF Class,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:HWKN,HWKN,"Hawkins, Inc.",stock,NasdaqGS,United States,Basic Materials,nasdaqtrader+yfinance
@@ -11169,13 +11171,13 @@ etf:HYEM,HYEM,VanEck Emerging Markets High Yield Bond ETF,etf,NYSEArca,,,nasdaqt
 etf:HYFI,HYFI,AB High Yield ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:HYFM,HYFM,"Hydrofarm Holdings Group, Inc.",stock,NasdaqCM,United States,Industrials,nasdaqtrader+yfinance
 stock:HYFT,HYFT,MindWalk Holdings Corp.,stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
-stock:HYFY,HYFY,Lazard Active ETF Trust - Lazard Hybrid Financial Income ETF,stock,NYSEArca,United States,,nasdaqtrader+yfinance
+stock:HYFY,HYFY,Lazard Hybrid Financial Income ETF,stock,NYSEArca,,,nasdaqtrader+yfinance
 etf:HYG,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:HYGD,HYGD,Bank of Montreal - MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:HYGD,HYGD,Microsectors -3x Short High Yield Corporate Bond (HYG) ETNs,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:HYGH,HYGH,HYGH,crypto,,,,crypti/cryptocurrencies
 etf:HYGH,HYGH,iShares Interest Rate Hedged High Yield Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:HYGM,HYGM,Amplify Hyg High Yield 10% Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:HYGU,HYGU,Bank of Montreal - MicroSectors 3x Long High Yield Corporate Bond (HYG),etf,Cboe US,,,nasdaqtrader+yfinance
+etf:HYGU,HYGU,Microsectors 3x Long High Yield Corporate Bond (HYG) ETNs,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:HYGV,HYGV,Northern Trust High Yield Value-Scored Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:HYGW,HYGW,iShares High Yield Corporate Bond Buywrite Strategy ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:HYHG,HYHG,ProShares High Yield—Interest Rate Hedged,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -11203,7 +11205,7 @@ crypto:HYPR,HYPR,Hypr Network,crypto,,,,crypti/cryptocurrencies
 stock:HYPR,HYPR,"Hyperfine, Inc.",stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:HYS,HYS,Heiss Shares,crypto,,,,crypti/cryptocurrencies
 etf:HYS,HYS,PIMCO 0-5 Year High Yield Corporate Bond Exchange-Traded ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:HYSA,HYSA,BondBloxx High Yield Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:HYSA,HYSA,Bondbloxx USD High Yield Bond Sector Rotation ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:HYSD,HYSD,Columbia Short Duration High Yield ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:HYT,HYT,HoryouToken,crypto,,,,crypti/cryptocurrencies
 stock:HYT,HYT,"BlackRock Corporate High Yield Fund, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -11309,7 +11311,7 @@ crypto:IBIT,IBIT,InfinityBit Token,crypto,,,,crypti/cryptocurrencies
 etf:IBIT,IBIT,iShares Bitcoin Trust ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:IBKR,IBKR,"Interactive Brokers Group, Inc.",stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 etf:IBLC,IBLC,iShares Blockchain and Tech ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-none:IBLY,IBLY,FT Vest Equity Target Income Plus 0-3 Month Treasury ETF,none,Cboe BZX,,,nasdaqtrader+yfinance
+stock:IBLY,IBLY,FT Vest Equity Target Income Plus 0-3 Month Treasury ETF,stock,NYSE American,,,nasdaqtrader+yfinance
 stock:IBM,IBM,International Business Machines Corporation,stock,NYSE,United States,Technology,nasdaqtrader+yfinance
 etf:IBMO,IBMO,iShares iBonds Dec 2026 Term Muni Bond ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:IBMP,IBMP,iShares iBonds Dec 2027 Term Muni Bond ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -11407,13 +11409,13 @@ stock:IDACU,IDACU,Iron Dome Acquisition I Corp.,stock,NasdaqGM,United States,Fin
 stock:IDACW,IDACW,Iron Dome Acquisition I Corp.,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 stock:IDAI,IDAI,T Stamp Inc.,stock,NasdaqCM,United States,Technology,nasdaqtrader+yfinance
 crypto:IDAP,IDAP,IDAP,crypto,,,,crypti/cryptocurrencies
-etf:IDAU,IDAU,Corgi International Developed Equities 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:IDAU,IDAU,Corgi ETF Trust I - Corgi International Developed Equities 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:IDC,IDC,IdealCoin,crypto,,,,crypti/cryptocurrencies
 stock:IDCC,IDCC,"InterDigital, Inc.",stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
 stock:IDE,IDE,"Voya Infrastructure, Industrials and Materials Fund",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:IDEA,IDEA,Ideaology,crypto,,,,crypti/cryptocurrencies
 etf:IDEC,IDEC,Innovator International Developed Power Buffer ETF - December,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:IDEF,IDEF,iShares Defense Industrials and Tech Active ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+etf:IDEF,IDEF,iShares Defense Industrials Active ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:IDEFI,IDEFI,Inverse DeFi Index,crypto,,,,crypti/cryptocurrencies
 etf:IDEQ,IDEQ,Lazard International Dynamic Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IDEV,IDEV,iShares Core MSCI International Developed Markets ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -11927,12 +11929,12 @@ crypto:IQC,IQC,IQ.cash,crypto,,,,crypti/cryptocurrencies
 etf:IQDF,IQDF,Northern Trust International Quality Dividend ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IQDG,IQDG,WisdomTree International Quality Dividend Growth Fund,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:IQDY,IQDY,Northern Trust International Quality Dividend Dynamic ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:IQEE,IQEE,Invesco Emerging Markets Enhanced ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
-etf:IQEI,IQEI,Invesco International Developed Enhanced ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
-etf:IQEL,IQEL,Invesco U.S. Large Cap Enhanced ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
-etf:IQES,IQES,Invesco U.S. Small Cap Enhanced ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
+none:IQEE,IQEE,Invesco Emerging Markets Enhanced ETF,none,NYSE Arca,,,nasdaqtrader+yfinance
+stock:IQEI,IQEI,Invesco Actively Managed Exchange-Traded Fund Trust - Invesco International Developed Enhanced ETF,stock,NYSE American,United States,,nasdaqtrader+yfinance
+stock:IQEL,IQEL,Invesco Actively Managed Exchange-Traded Fund Trust - Invesco U.S. Large Cap Enhanced ETF,stock,NYSE American,,,nasdaqtrader+yfinance
+none:IQES,IQES,Invesco U.S. Small Cap Enhanced ETF,none,NYSE Arca,,,nasdaqtrader+yfinance
 etf:IQGR,IQGR,Astoria International Quality Growth Kings ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-etf:IQHI,IQHI,NYLIM MacKay High Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:IQHI,IQHI,NYLI MacKay High Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:IQI,IQI,Invesco Quality Municipal Income Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 etf:IQLT,IQLT,iShares MSCI Intl Quality Factor ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IQM,IQM,Franklin Intelligent Machines ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -11943,10 +11945,10 @@ crypto:IQN,IQN,IQeon,crypto,,,,crypti/cryptocurrencies
 crypto:IQQ,IQQ,Iqoniq,crypto,,,,crypti/cryptocurrencies
 etf:IQQ,IQQ,iShares Nasdaq 100 ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:IQQQ,IQQQ,ProShares Nasdaq-100 High Income ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-etf:IQSI,IQSI,NYLIM Candriam International Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:IQSM,IQSM,NYLIM Candriam U.S. Mid Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:IQSI,IQSI,NYLI Candriam International Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:IQSM,IQSM,NYLI Candriam U.S. Mid Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:IQST,IQST,iQSTEL Inc.,stock,NasdaqCM,United States,Communication Services,nasdaqtrader+yfinance
-etf:IQSU,IQSU,NYLIM Candriam U.S. Large Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:IQSU,IQSU,NYLI Candriam U.S. Large Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IQSZ,IQSZ,Invesco Global Equity Net Zero ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:IQT,IQT,IQ Protocol,crypto,,,,crypti/cryptocurrencies
 stock:IQV,IQV,IQVIA Holdings Inc.,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
@@ -12129,9 +12131,9 @@ etf:IWB,IWB,iShares Russell 1000 ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IWC,IWC,iShares Micro-Cap ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IWD,IWD,iShares Russell 1000 Value ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IWF,IWF,iShares Russell 1000 Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:IWFG,IWFG,NYLIM Winslow Focused Large Cap Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:IWFG,IWFG,NYLI Winslow Focused Large Cap Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IWL,IWL,iShares Russell Top 200 ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:IWLG,IWLG,NYLIM Winslow Large Cap Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:IWLG,IWLG,NYLI Winslow Large Cap Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IWM,IWM,iShares Russell 2000 ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:IWMI,IWMI,NEOS Russell 2000 High Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:IWMW,IWMW,iShares Russell 2000 BuyWrite ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -12650,6 +12652,7 @@ stock:KBR,KBR,"KBR, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfin
 stock:KBSX,KBSX,FST Corp.,stock,NasdaqGM,Taiwan,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:KBT,KBT,Kartblock,crypto,,,,crypti/cryptocurrencies
 crypto:KBTC,KBTC,Klondike BTC,crypto,,,,crypti/cryptocurrencies
+etf:KBTY,KBTY,Guinness Atkinson K-Beauty ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
 etf:KBUF,KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:KBWB,KBWB,Invesco KBW Bank ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:KBWD,KBWD,Invesco KBW High Dividend Yield Financial ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -12712,7 +12715,7 @@ crypto:KELPIE,KELPIE,Kelpie Inu,crypto,,,,crypti/cryptocurrencies
 stock:KELYA,KELYA,"Kelly Services, Inc.",stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
 stock:KELYB,KELYB,"Kelly Services, Inc.",stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
 crypto:KEMA,KEMA,Kemacoin,crypto,,,,crypti/cryptocurrencies
-etf:KEMQ,KEMQ,KraneShares FTSE Emerging Markets Consumer Technology Index ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:KEMQ,KEMQ,KraneShares Public-Private Emerging Markets Internet and Technology ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:KEMX,KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:KEN,KEN,Kencoin,crypto,,,,crypti/cryptocurrencies
 stock:KEN,KEN,Kenon Holdings Ltd.,stock,NYSE,Singapore,Utilities,nasdaqtrader+yfinance
@@ -12992,7 +12995,7 @@ etf:KPHO,KPHO,KraneShares Dragon Capital Vietnam Growth Index ETF,etf,NYSEArca,,
 crypto:KPL,KPL,Kepple,crypto,,,,crypti/cryptocurrencies
 stock:KPLT,KPLT,"Katapult Holdings, Inc.",stock,NasdaqGM,United States,Technology,nasdaqtrader+yfinance
 stock:KPLTW,KPLTW,"Katapult Holdings, Inc.",stock,NasdaqGM,United States,,nasdaqtrader+yfinance
-etf:KPO,KPO,Kensington Premium Opportunities ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:KPO,KPO,Managed Portfolio Series - Kensington Premium Opportunities Etf,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:KPOP,KPOP,KPOP Coin,crypto,,,,crypti/cryptocurrencies
 etf:KPRO,KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:KPRX,KPRX,"Kiora Pharmaceuticals, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
@@ -13082,7 +13085,7 @@ stock:KTF,KTF,DWS Municipal Income Trust,stock,NYSE,United States,Financial Serv
 stock:KTH,KTH,Corts Trust Peco Energy Capital Trust III,stock,NYSE,,,nasdaqtrader+yfinance
 crypto:KTK,KTK,KryptCoin,crypto,,,,crypti/cryptocurrencies
 crypto:KTN,KTN,Kattana,crypto,,,,crypti/cryptocurrencies
-stock:KTN,KTN,Credit-Enhanced Corts Trust Aon,stock,NYSE,,,nasdaqtrader+yfinance
+stock:KTN,KTN,Structured Products Corp 8.205%,stock,NYSE,,,nasdaqtrader+yfinance
 crypto:KTO,KTO,Kounotori,crypto,,,,crypti/cryptocurrencies
 crypto:KTON,KTON,Darwinia Commitment Token,crypto,,,,crypti/cryptocurrencies
 stock:KTOS,KTOS,"Kratos Defense & Security Solutions, Inc.",stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
@@ -13294,7 +13297,7 @@ stock:LCID,LCID,"Lucid Group, Inc.",stock,NasdaqGS,United States,Consumer Cyclic
 stock:LCII,LCII,LCI Industries,stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
 etf:LCIV,LCIV,Logan Capital International ETF,etf,NYSE,,,nasdaqtrader+yfinance
 crypto:LCK,LCK,Luckbox,crypto,,,,crypti/cryptocurrencies
-etf:LCLG,LCLG,Logan Capital Large Cap Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:LCLG,LCLG,Logan Capital Broad Innovative Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:LCLN,LCLN,"Lincoln International, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:LCMG,LCMG,ElysiumG,crypto,,,,crypti/cryptocurrencies
 crypto:LCMS,LCMS,LCMS,crypto,,,,crypti/cryptocurrencies
@@ -13448,7 +13451,7 @@ stock:LGCL,LGCL,Lucas GC Limited,stock,NasdaqCM,China,Technology,nasdaqtrader+yf
 crypto:LGCY,LGCY,LGCY Network,crypto,,,,crypti/cryptocurrencies
 stock:LGCY,LGCY,Legacy Education Inc.,stock,NYSE American,United States,Consumer Defensive,nasdaqtrader+yfinance
 crypto:LGD,LGD,Legends Cryptocurrency,crypto,,,,crypti/cryptocurrencies
-etf:LGDS,LGDS,JPMorgan Fundamental Data Science Large Growth ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+etf:LGDS,LGDS,J P MORGAN Exchange-Traded Fund Trust - Fundamental Data Science Large Growth ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:LGDX,LGDX,Intech S&P Large Cap Diversified Alpha ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:LGH,LGH,HCM Defender 500 Index ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:LGHL,LGHL,Lion Group Holding Ltd.,stock,NasdaqCM,Singapore,Financial Services,nasdaqtrader+yfinance
@@ -13792,14 +13795,14 @@ crypto:LQD,LQD,Liquid,crypto,,,,crypti/cryptocurrencies
 etf:LQD,LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:LQDA,LQDA,Liquidia Corporation,stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 etf:LQDB,LQDB,iShares BBB Rated Corporate Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:LQDD,LQDD,Bank of Montreal - MicroSectors -3x Short Investment Grade Fund,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:LQDD,LQDD,Microsectors -3x Short Investment Grade Corporate Bond (LQD) ETNs,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:LQDH,LQDH,iShares Interest Rate Hedged Corporate Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:LQDI,LQDI,iShares Inflation Hedged Corporate Bond ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:LQDM,LQDM,Amplify LQD Investment Grade 12% Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:LQDN,LQDN,Liquidity Network,crypto,,,,crypti/cryptocurrencies
 crypto:LQDR,LQDR,LiquidDriver,crypto,,,,crypti/cryptocurrencies
 stock:LQDT,LQDT,"Liquidity Services, Inc.",stock,NasdaqGS,United States,Consumer Cyclical,nasdaqtrader+yfinance
-etf:LQDU,LQDU,Bank of Montreal-MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:LQDU,LQDU,Microsectors 3x Long Investment Grade Corporate Bond (LQD) ETNs,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:LQDW,LQDW,iShares Investment Grade Corporate Bond Buywrite Strategy ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:LQDX,LQDX,Liquid Crypto,crypto,,,,crypti/cryptocurrencies
 etf:LQID,LQID,Kurv Enhanced Short Maturity ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -13820,7 +13823,7 @@ stock:LRHC,LRHC,Stratum Holdings Corp.,stock,NasdaqCM,United States,Real Estate,
 stock:LRMR,LRMR,"Larimar Therapeutics, Inc.",stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:LRN,LRN,Loopring [NEO],crypto,,,,crypti/cryptocurrencies
 stock:LRN,LRN,"Stride, Inc.",stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
-etf:LRND,LRND,NYLIM U.S. Large Cap R&D Leaders ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+etf:LRND,LRND,NYLI U.S. Large Cap R&D Leaders ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:LRNX,LRNX,Corgi LRN 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:LRNZ,LRNZ,"TrueShares Technology, AI and Deep Learning ETF",etf,Cboe US,,,nasdaqtrader+yfinance
 etf:LSAF,LSAF,LeaderSharesTM AlphaFactor US Core Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -14066,6 +14069,7 @@ crypto:MAGICV,MAGICV,Magicverse,crypto,,,,crypti/cryptocurrencies
 crypto:MAGIK,MAGIK,Magik Finance,crypto,,,,crypti/cryptocurrencies
 stock:MAGN,MAGN,Magnera Corporation,stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
 crypto:MAGNET,MAGNET,Yield Magnet,crypto,,,,crypti/cryptocurrencies
+etf:MAGP,MAGP,Roundhill Magnificent Seven Plus ETF,etf,Cboe BZX,,,nasdaqtrader+yfinance
 etf:MAGS,MAGS,Roundhill Magnificent Seven ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:MAGX,MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:MAGY,MAGY,Roundhill Magnificent Seven Covered Call ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -14202,7 +14206,7 @@ crypto:MAZZE,MAZZE,Mazze,crypto,,,,crypti/cryptocurrencies
 crypto:MB,MB,MineBee,crypto,,,,crypti/cryptocurrencies
 stock:MB,MB,MasterBeef Group,stock,NasdaqCM,Hong Kong,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:MB8,MB8,MB8 Coin,crypto,,,,crypti/cryptocurrencies
-stock:MBAI,MBAI,Check-Cap Ltd.,stock,NasdaqCM,Canada,Technology,nasdaqtrader+yfinance
+stock:MBAI,MBAI,MBody AI Ltd.,stock,NasdaqCM,Canada,Technology,nasdaqtrader+yfinance
 crypto:MBASE,MBASE,Minebase,crypto,,,,crypti/cryptocurrencies
 stock:MBAV,MBAV,M3-Brigade Acquisition V Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:MBAVU,MBAVU,M3-Brigade Acquisition V Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
@@ -14554,7 +14558,7 @@ stock:MFIC,MFIC,MidCap Financial Investment Corporation,stock,NasdaqGS,United St
 stock:MFICL,MFICL,MidCap Financial Investment Corporation,stock,NasdaqGS,United States,,nasdaqtrader+yfinance
 etf:MFIG,MFIG,Motley Fool Innovative Growth Factor ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:MFIN,MFIN,Medallion Financial Corp.,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
-etf:MFIX,MFIX,Nomura ETF Trust II - Nomura Strategic Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MFIX,MFIX,Nomura Strategic Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:MFLX,MFLX,First Trust Flexible Municipal High Income ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:MFM,MFM,Aberdeen Municipal Income Fund,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 etf:MFMO,MFMO,Motley Fool Momentum Factor ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -14777,8 +14781,8 @@ etf:MKAM,MKAM,MKAM ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:MKC,MKC,Meta Kongz,crypto,,,,crypti/cryptocurrencies
 stock:MKC,MKC,"McCormick & Company, Incorporated",stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
 stock:MKC.V,MKC.V,"McCormick & Company, Incorporated",stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
-stock:MKDW,MKDW,Landvision Technology Limited,stock,NasdaqCM,Taiwan,Consumer Cyclical,nasdaqtrader+yfinance
-stock:MKDWW,MKDWW,Landvision Technology Limited,stock,NasdaqCM,Taiwan,,nasdaqtrader+yfinance
+stock:MKDW,MKDW,MKDWELL Tech Inc.,stock,NasdaqCM,Taiwan,Consumer Cyclical,nasdaqtrader+yfinance
+stock:MKDWW,MKDWW,MKDWELL Tech Inc.,stock,NasdaqCM,Taiwan,,nasdaqtrader+yfinance
 crypto:MKEY,MKEY,MEDIKEY,crypto,,,,crypti/cryptocurrencies
 stock:MKL,MKL,Markel Group Inc.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:MKLY,MKLY,McKinley Acquisition Corporation,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
@@ -14849,7 +14853,7 @@ etf:MMAR,MMAR,Pacer Swan SOS Moderate (March) ETF,etf,Cboe US,,,nasdaqtrader+yfi
 etf:MMAX,MMAX,iShares Large Cap Max Buffer Mar ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:MMAY,MMAY,Pacer Swan SOS Moderate (May) ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:MMC,MMC,Monopoly Millionaire Control,crypto,,,,crypti/cryptocurrencies
-etf:MMCA,MMCA,NYLIM MacKay California Muni Intermediate ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MMCA,MMCA,NYLI MacKay California Muni Intermediate ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:MMD,MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:MMED,MMED,"MiniMed Group, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 stock:MMEDV,MMEDV,"MiniMed Group, Inc. Common Stock When Issued",stock,NasdaqGS,,,nasdaqtrader+yfinance
@@ -14860,14 +14864,14 @@ crypto:MMG,MMG,Monopoly Millionaire Game,crypto,,,,crypti/cryptocurrencies
 etf:MMHI,MMHI,NYLIM MacKay Muni High Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:MMI,MMI,"Marcus & Millichap, Inc.",stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
 etf:MMID,MMID,MFS Active Mid Cap ETF,etf,NYSE,,,nasdaqtrader+yfinance
-etf:MMIN,MMIN,NYLIM MacKay Muni Insured ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MMIN,MMIN,NYLI MacKay Muni Insured ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MMIT,MMIT,MangoMan Intelligent,crypto,,,,crypti/cryptocurrencies
-etf:MMIT,MMIT,NYLIM MacKay Muni Intermediate ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MMIT,MMIT,NYLI MacKay Muni Intermediate ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:MMK,MMK,State Street Prime Money Market ETF,etf,NYSE,,,nasdaqtrader+yfinance
 etf:MMKT,MMKT,Texas Capital Government Money Market ETF,etf,NYSE,,,nasdaqtrader+yfinance
 stock:MMLP,MMLP,Martin Midstream Partners L.P.,stock,NasdaqGS,United States,Energy,nasdaqtrader+yfinance
 stock:MMM,MMM,3M Company,stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
-etf:MMMA,MMMA,NYLIM MacKay Muni Allocation ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MMMA,MMMA,NYLI MacKay Muni Allocation ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MMNXT,MMNXT,MMNXT,crypto,,,,crypti/cryptocurrencies
 crypto:MMO,MMO,MMOCoin,crypto,,,,crypti/cryptocurrencies
 crypto:MMPRO,MMPRO,Market Making Pro,crypto,,,,crypti/cryptocurrencies
@@ -14875,7 +14879,7 @@ crypto:MMS,MMS,Marsverse,crypto,,,,crypti/cryptocurrencies
 stock:MMS,MMS,"Maximus, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 crypto:MMSC,MMSC,MMSC PLATFORM,crypto,,,,crypti/cryptocurrencies
 etf:MMSC,MMSC,First Trust Multi-Manager Small Cap Opportunities ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:MMSD,MMSD,NYLIM MacKay Muni Short Duration ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MMSD,MMSD,NYLI MacKay Muni Short Duration ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:MMSI,MMSI,"Merit Medical Systems, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 crypto:MMSS,MMSS,MMSS (Ordinals),crypto,,,,crypti/cryptocurrencies
 crypto:MMT,MMT,Master MIX Token,crypto,,,,crypti/cryptocurrencies
@@ -14895,7 +14899,7 @@ crypto:MMY,MMY,Mummy Finance,crypto,,,,crypti/cryptocurrencies
 stock:MMYT,MMYT,MakeMyTrip Limited,stock,NasdaqGS,India,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:MN,MN,Cryptsy Mining Contract,crypto,,,,crypti/cryptocurrencies
 etf:MN,MN,Corgi Mangos ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:MNA,MNA,NYLIM Merger Arbitrage ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MNA,MNA,NYLI Merger Arbitrage ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MNB,MNB,MoneyBag,crypto,,,,crypti/cryptocurrencies
 etf:MNBD,MNBD,ALPS | BBH Intermediate Municipal Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MNC,MNC,MainCoin,crypto,,,,crypti/cryptocurrencies
@@ -14912,7 +14916,7 @@ crypto:MNFTS,MNFTS,Marvelous NFTs,crypto,,,,crypti/cryptocurrencies
 crypto:MNG,MNG,Moon Nation Game,crypto,,,,crypti/cryptocurrencies
 etf:MNGB,MNGB,Yorkville America 2X Inverse Mangos Plus Daily Target ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MNGO,MNGO,Mango protocol,crypto,,,,crypti/cryptocurrencies
-etf:MNGU,MNGU,MicroSectors 3× Long MANGOS+ Ex Private Companies Etns,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MNGU,MNGU,MicroSectors 3× Long MANGOS+ ex Private Companies ETN,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:MNGZ,MNGZ,Yorkville America 2X Long Mangos Plus Daily Target ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MNI,MNI,Map Node,crypto,,,,crypti/cryptocurrencies
 stock:MNKD,MNKD,MannKind Corporation,stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
@@ -15101,14 +15105,14 @@ stock:MPB,MPB,"Mid Penn Bancorp, Inc.",stock,NasdaqGM,United States,Financial Se
 crypto:MPC,MPC,Metaplace,crypto,,,,crypti/cryptocurrencies
 stock:MPC,MPC,Marathon Petroleum Corporation,stock,NYSE,United States,Energy,nasdaqtrader+yfinance
 crypto:MPD,MPD,Metapad,crypto,,,,crypti/cryptocurrencies
-etf:MPDB,MPDB,Valued Advisers Trust - m+ DynaBuffer ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:MPDY,MPDY,m+ Dualyield Autocall ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MPDB,MPDB,m+ Dynabuffer ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:MPDY,MPDY,Valued Advisers Trust - m+ DualYield Autocall ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MPG,MPG,Max Property Group,crypto,,,,crypti/cryptocurrencies
 etf:MPG,MPG,Leverage Shares 2X Long MP Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:MPH,MPH,Morpher,crypto,,,,crypti/cryptocurrencies
 crypto:MPI,MPI,MetaPioneers,crypto,,,,crypti/cryptocurrencies
 etf:MPIA,MPIA,m+ Nasdaq-100 Accelerator Autocall ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-etf:MPIM,MPIM,m+ Income Momentum Autocall ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MPIM,MPIM,Valued Advisers Trust - m+ Income Momentum Autocall ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MPL,MPL,Maple,crypto,,,,crypti/cryptocurrencies
 stock:MPLT,MPLT,"MapLight Therapeutics, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 crypto:MPLUS,MPLUS,M+Plus,crypto,,,,crypti/cryptocurrencies
@@ -15139,7 +15143,7 @@ crypto:MR,MR,Meta Ruffy,crypto,,,,crypti/cryptocurrencies
 etf:MRA,MRA,Graniteshares Autocallable Mara ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:MRAL,MRAL,GraniteShares 2x Long MARA Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:MRAM,MRAM,"Everspin Technologies, Inc.",stock,NasdaqGM,United States,Technology,nasdaqtrader+yfinance
-etf:MRAX,MRAX,Investment Managers Series Trust II - Tradr 2X Long MRAM Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:MRAX,MRAX,Tradr 2X Long MRAM Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:MRBK,MRBK,Meridian Corporation,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 crypto:MRBOB,MRBOB,MR BOB COIN,crypto,,,,crypti/cryptocurrencies
 crypto:MRCH,MRCH,MerchDAO,crypto,,,,crypti/cryptocurrencies
@@ -15289,7 +15293,7 @@ stock:MTAKW,MTAKW,Market Technology Acquisition Corp,stock,NasdaqGM,United State
 stock:MTAL,MTAL,Metals Acquisition Corp. II,stock,NYSE,Cayman Islands,Financial Services,nasdaqtrader+yfinance
 stock:MTAL.U,MTAL.U,"Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",stock,NYSE,,,nasdaqtrader+yfinance
 stock:MTAL.W,MTAL.W,"Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",stock,NYSE,,,nasdaqtrader+yfinance
-etf:MTAW,MTAW,Harbor ETF Trust - Meta AI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:MTAW,MTAW,Meta AI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:MTB,MTB,MetaBridge,crypto,,,,crypti/cryptocurrencies
 stock:MTB,MTB,M&T Bank Corporation,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:MTB$H,MTB$H,M&T Bank Corporation,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -15594,7 +15598,7 @@ crypto:NAN,NAN,NanoToken,crypto,,,,crypti/cryptocurrencies
 stock:NAN,NAN,Nuveen New York Quality Municipal Income Fund,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:NANA,NANA,Bananace,crypto,,,,crypti/cryptocurrencies
 crypto:NANAS,NANAS,BananaBits,crypto,,,,crypti/cryptocurrencies
-etf:NANC,NANC,Subversive Congressional Democrats Trading ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:NANC,NANC,Unusual Whales Subversive Democratic Trading ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:NANJ,NANJ,NANJCOIN,crypto,,,,crypti/cryptocurrencies
 crypto:NANO,NANO,Nano,crypto,,,,crypti/cryptocurrencies
 stock:NANO,NANO,Forge Nano Holdings Inc.,stock,NasdaqGM,United States,Technology,nasdaqtrader+yfinance
@@ -15979,7 +15983,7 @@ etf:NIOG,NIOG,Leverage Shares 2X Long NIO Daily ETF,etf,NasdaqGM,,,nasdaqtrader+
 crypto:NIOX,NIOX,Autonio,crypto,,,,crypti/cryptocurrencies
 stock:NIPG,NIPG,NIP Group Inc.,stock,NasdaqGM,Sweden,Communication Services,nasdaqtrader+yfinance
 stock:NIQ,NIQ,NIQ Global Intelligence plc,stock,NYSE,,,nasdaqtrader+yfinance
-etf:NISM,NISM,NYLIM International Small-Mid Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:NISM,NISM,NYLI International Small-Mid Cap Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:NIT,NIT,Nesten,crypto,,,,crypti/cryptocurrencies
 etf:NITE,NITE,The Nightview ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:NITEFEEDER,NITEFEEDER,Nitefeeder,crypto,,,,crypti/cryptocurrencies
@@ -15997,6 +16001,7 @@ stock:NIXXW,NIXXW,"Nixxy, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfina
 crypto:NIZA,NIZA,Niza Global,crypto,,,,crypti/cryptocurrencies
 etf:NJAN,NJAN,Innovator Growth-100 Power Buffer ETF - January,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:NJNK,NJNK,Columbia U.S. High Yield ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:NJPN,NJPN,Nomura Japan Equity ETF,etf,NYSE Arca,,,nasdaqtrader+yfinance
 stock:NJR,NJR,New Jersey Resources Corporation,stock,NYSE,United States,Utilities,nasdaqtrader+yfinance
 etf:NJUL,NJUL,Innovator Nasdaq-100 Power Buffer ETF - July,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:NJUN,NJUN,Innovator Growth-100 Power Buffer ETF - June,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -16209,10 +16214,10 @@ stock:NRXP,NRXP,"NRx Pharmaceuticals, Inc.",stock,NasdaqCM,United States,Healthc
 stock:NRXPW,NRXPW,"NRx Pharmaceuticals, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 stock:NRXS,NRXS,"NeurAxis, Inc.",stock,NYSE American,United States,Healthcare,nasdaqtrader+yfinance
 crypto:NS2DRP,NS2DRP,New Silver Series 2 DROP,crypto,,,,crypti/cryptocurrencies
-stock:NSAI,NSAI,NorthStrive Acquisition Corp I. Class A Ordinary Shares,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
-stock:NSAIR,NSAIR,NorthStrive Acquisition Corp I. Rights,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
+stock:NSAI,NSAI,Northstrive Acquisition Corp I.,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
+stock:NSAIR,NSAIR,Northstrive Acquisition Corp I.,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 stock:NSAIU,NSAIU,Northstrive Acquisition Corp I.,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
-stock:NSAIW,NSAIW,NorthStrive Acquisition Corp I. Warrants,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
+stock:NSAIW,NSAIW,Northstrive Acquisition Corp I.,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 crypto:NSBT,NSBT,Neutrino Token,crypto,,,,crypti/cryptocurrencies
 stock:NSC,NSC,Norfolk Southern Corporation,stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 etf:NSCI,NSCI,Nuveen Securitized Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -16510,7 +16515,7 @@ stock:OACCW,OACCW,Oaktree Acquisition Corp. III Life Sciences,stock,NasdaqGM,Uni
 etf:OACP,OACP,OneAscent Core Plus Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:OAEM,OAEM,OneAscent Emerging Markets ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:OAIM,OAIM,OneAscent International Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:OAIW,OAIW,Harbor ETF Trust - OpenAI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:OAIW,OAIW,OpenAI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:OAK,OAK,Acorn Collective,crypto,,,,crypti/cryptocurrencies
 stock:OAK$A,OAK$A,"Oaktree Capital Group, LLC 6.625% PFD UT A",stock,NYSE,,,nasdaqtrader+yfinance
 stock:OAK$B,OAK$B,"Oaktree Capital Group, LLC",stock,NYSE,,,nasdaqtrader+yfinance
@@ -16893,7 +16898,7 @@ stock:OPP$A,OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",stock
 stock:OPP$B,OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:OPP$C,OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",stock,NYSE American,United States,,nasdaqtrader+yfinance
 etf:OPPE,OPPE,WisdomTree European Opportunities Fund,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:OPPG,OPPG,WisdomTree GeoAlpha Opportunities Fund,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:OPPG,OPPG,WisdomTree Trust - WisdomTree GeoAlpha Opportunities Fund,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:OPPJ,OPPJ,WisdomTree Japan Opportunities Fund,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:OPRA,OPRA,Opera Limited,stock,NasdaqGS,Norway,Communication Services,nasdaqtrader+yfinance
 stock:OPRT,OPRT,Oportun Financial Corporation,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
@@ -17148,7 +17153,7 @@ etf:PAAA,PAAA,PGIM AAA CLO ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:PAAC,PAAC,Proem Acquisition Corp I,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:PAACU,PAACU,Proem Acquisition Corp I,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:PAACW,PAACW,Proem Acquisition Corp I,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
-stock:PAAI,PAAI,"Paradium.AI, Inc.",stock,NYSE American,United States,Communication Services,nasdaqtrader+yfinance
+stock:PAAI,PAAI,"Paradium AI, Inc.",stock,NYSE American,United States,Communication Services,nasdaqtrader+yfinance
 crypto:PAAL,PAAL,PAAL AI,crypto,,,,crypti/cryptocurrencies
 stock:PAAS,PAAS,Pan American Silver Corp.,stock,NYSE,Canada,Basic Materials,nasdaqtrader+yfinance
 etf:PAB,PAB,PGIM Active Aggregate Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -17653,7 +17658,7 @@ stock:PGR,PGR,The Progressive Corporation,stock,NYSE,United States,Financial Ser
 etf:PGRI,PGRI,Putnam International Stock ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:PGRO,PGRO,Putnam Focused Large Cap Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:PGROK,PGROK,Papa Grok,crypto,,,,crypti/cryptocurrencies
-stock:PGRW,PGRW,Principal Exchange-Traded Funds - Principal Growth ETF,stock,NYSE American,United States,,nasdaqtrader+yfinance
+stock:PGRW,PGRW,Principal Growth ETF,stock,NYSE American,,,nasdaqtrader+yfinance
 crypto:PGT,PGT,Polyient Games Governance Token,crypto,,,,crypti/cryptocurrencies
 crypto:PGTS,PGTS,Puregold token,crypto,,,,crypti/cryptocurrencies
 crypto:PGU,PGU,Polyient Games Unity,crypto,,,,crypti/cryptocurrencies
@@ -17787,7 +17792,7 @@ etf:PJFG,PJFG,PGIM Jennison Focused Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfina
 etf:PJFM,PJFM,PGIM Jennison Focused Mid-Cap ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:PJFV,PJFV,PGIM Jennison Focused Value ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:PJIN,PJIN,PGIM Jennison International Core Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
-etf:PJIO,PJIO,PGIM Jennison Focused International Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:PJIO,PJIO,PGIM Jennison International Opportunities ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:PJM,PJM,Pajama.Finance,crypto,,,,crypti/cryptocurrencies
 etf:PJP,PJP,Invesco Pharmaceuticals ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:PJSM,PJSM,PGIM Jennison Small-Mid Cap Core Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -18592,7 +18597,7 @@ crypto:QAC,QAC,Quasarcoin,crypto,,,,crypti/cryptocurrencies
 stock:QADR,QADR,QDRO Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:QADRU,QADRU,QDRO Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:QADRW,QADRW,QDRO Acquisition Corp.,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
-etf:QAI,QAI,NYLIM Hedge Multi-Strategy Tracker ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:QAI,QAI,NYLI Hedge Multi-Strategy Tracker ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:QALT,QALT,SEI DBi Multi-Strategy Alternative ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:QANX,QANX,QANplatform,crypto,,,,crypti/cryptocurrencies
 crypto:QARK,QARK,QANplatform,crypto,,,,crypti/cryptocurrencies
@@ -18720,7 +18725,7 @@ stock:QNBC,QNBC,QNB Corp.,stock,NasdaqCM,United States,Financial Services,nasdaq
 stock:QNC,QNC,Quantum eMotion Corp.,stock,NYSE American,Canada,Technology,nasdaqtrader+yfinance
 stock:QNCX,QNCX,"Quince Therapeutics, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 etf:QNDX,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-stock:QNME,QNME,"Quanome Technologies, Inc.",stock,NasdaqCM,United States,Industrials,nasdaqtrader+yfinance
+stock:QNME,QNME,Lakeside Holding Limited,stock,NasdaqCM,United States,Industrials,nasdaqtrader+yfinance
 stock:QNRX,QNRX,"Quoin Pharmaceuticals, Ltd.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 stock:QNST,QNST,"QuinStreet, Inc.",stock,NasdaqGS,United States,Communication Services,nasdaqtrader+yfinance
 crypto:QNT,QNT,Quant,crypto,,,,crypti/cryptocurrencies
@@ -18740,7 +18745,7 @@ etf:QOWZ,QOWZ,Invesco Nasdaq Free Cash Flow Achievers ETF,etf,NasdaqGM,,,nasdaqt
 etf:QPUX,QPUX,Defiance 2X Daily Long Pure Quantum ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:QPX,QPX,AdvisorShares Q Dynamic Growth ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:QQA,QQA,Invesco QQQ Income Advantage ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-etf:QQAU,QQAU,Corgi Growth & Technology 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:QQAU,QQAU,Corgi ETF Trust I - Growth-100 15% Structured Buffer ETF - August Series,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:QQBC,QQBC,QQBC IPFS BLOCKCHAIN,crypto,,,,crypti/cryptocurrencies
 etf:QQBF,QQBF,FT Vest NASDAQ-100 Quarterly 15 Buffer ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:QQDH,QQDH,Tuttle Capital Innovation 100 Income & Hedge ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -18853,7 +18858,7 @@ crypto:QUIDD,QUIDD,Quidd,crypto,,,,crypti/cryptocurrencies
 stock:QUIK,QUIK,QuickLogic Corporation,stock,NasdaqCM,United States,Technology,nasdaqtrader+yfinance
 crypto:QUIN,QUIN,QUINADS,crypto,,,,crypti/cryptocurrencies
 crypto:QUINT,QUINT,Quint,crypto,,,,crypti/cryptocurrencies
-stock:QUIT,QUIT,"Achieve Life Sciences, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
+stock:QUIT,QUIT,"Achieve Life Sciences, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:QUIZ,QUIZ,Quizando,crypto,,,,crypti/cryptocurrencies
 etf:QUIZ,QUIZ,Zacks Quality International ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:QUMS,QUMS,Quantumsphere Acquisition Corporation,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
@@ -19152,7 +19157,7 @@ crypto:REELT,REELT,Reel Token,crypto,,,,crypti/cryptocurrencies
 etf:REET,REET,iShares Global REIT ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:REF,REF,Ref Finance,crypto,,,,crypti/cryptocurrencies
 stock:REF,REF,Reformation Inc.,stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
-etf:REFA,REFA,Columbia Research Enhanced International Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:REFA,REFA,Columbia Research Enhanced Inte,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:REFI,REFI,Realfinance Network,crypto,,,,crypti/cryptocurrencies
 stock:REFI,REFI,"Chicago Atlantic Real Estate Finance, Inc.",stock,NasdaqGM,United States,Real Estate,nasdaqtrader+yfinance
 crypto:REFLECTO,REFLECTO,Reflecto,crypto,,,,crypti/cryptocurrencies
@@ -19307,7 +19312,7 @@ stock:RGR,RGR,"Sturm, Ruger & Company, Inc.",stock,NYSE,United States,Industrial
 stock:RGS,RGS,Regis Corporation,stock,NasdaqGM,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:RGT,RGT,Rari Governance Token,crypto,,,,crypti/cryptocurrencies
 stock:RGT,RGT,"Royce Global Trust, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-etf:RGTC,RGTC,Corgi RGTI 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:RGTC,RGTC,Corgi ETF Trust I - Corgi RGTI 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:RGTI,RGTI,"Rigetti Computing, Inc.",stock,NasdaqCM,United States,Technology,nasdaqtrader+yfinance
 stock:RGTIW,RGTIW,"Rigetti Computing, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 etf:RGTU,RGTU,Tradr 2X Long RGTI Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -19401,12 +19406,12 @@ stock:RITR,RITR,Reitar Logtech Holdings Limited,stock,NasdaqCM,Hong Kong,Industr
 crypto:RITZ,RITZ,Ritz.Game,crypto,,,,crypti/cryptocurrencies
 stock:RIV,RIV,"RiverNorth Opportunities Fund, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:RIV$A,RIV$A,"RiverNorth Opportunities Fund, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-etf:RIVC,RIVC,Corgi RIVN 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:RIVC,RIVC,Corgi ETF Trust I - RIVN 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:RIVN,RIVN,"Rivian Automotive, Inc.",stock,NasdaqGS,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:RIYA,RIYA,Etheriya,crypto,,,,crypti/cryptocurrencies
 crypto:RIZE,RIZE,Rizespor Token,crypto,,,,crypti/cryptocurrencies
 etf:RIZE,RIZE,Principal Inflation Protection ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:RJCA,RJCA,RJ ClariVest Capital Appreciation ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:RJCA,RJCA,Carillon Series Trust - Rj Clarivest Capital Appreciation Etf,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:RJDI,RJDI,RJ Eagle GCM Dividend Select Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:RJET,RJET,Republic Airways Holdings Inc.,stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
 stock:RJF,RJF,"Raymond James Financial, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
@@ -19484,7 +19489,7 @@ crypto:RMV,RMV,Reality Metaverse,crypto,,,,crypti/cryptocurrencies
 stock:RNA,RNA,"Atrium Therapeutics, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 stock:RNAC,RNAC,"Cartesian Therapeutics, Inc.",stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
 stock:RNAQ,RNAQ,Rainier Acquisition Corporation,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
-stock:RNAQU,RNAQU,Rainier Acquisition Corporation,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
+stock:RNAQU,RNAQU,Rainier Acquisition Corporation Units,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 stock:RNAQW,RNAQW,Rainier Acquisition Corporation,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 stock:RNAZ,RNAZ,"TransCode Therapeutics, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:RNB,RNB,Rentible,crypto,,,,crypti/cryptocurrencies
@@ -19750,7 +19755,7 @@ stock:RVMD,RVMD,"Revolution Medicines, Inc.",stock,NasdaqGS,United States,Health
 stock:RVMDW,RVMDW,"Revolution Medicines, Inc.",stock,NasdaqGS,United States,,nasdaqtrader+yfinance
 crypto:RVN,RVN,Ravencoin,crypto,,,,crypti/cryptocurrencies
 etf:RVNL,RVNL,GraniteShares 2x Long RIVN Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
-etf:RVNU,RVNU,Xtrackers Municipal Infrastructure Revenue Bond Active ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:RVNU,RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:RVO,RVO,AhrvoDEEX,crypto,,,,crypti/cryptocurrencies
 crypto:RVP,RVP,Revolution Populi,crypto,,,,crypti/cryptocurrencies
 stock:RVP,RVP,"Retractable Technologies, Inc.",stock,NYSE American,United States,Healthcare,nasdaqtrader+yfinance
@@ -20148,8 +20153,8 @@ stock:SCPQ,SCPQ,Social Commerce Partners Corporation,stock,NasdaqGM,United State
 stock:SCPQU,SCPQU,Social Commerce Partners Corporation,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:SCPQW,SCPQW,Social Commerce Partners Corporation,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 crypto:SCPT,SCPT,Script Network,crypto,,,,crypti/cryptocurrencies
-stock:SCQC,SCQC,SPACCircle Acquisition Corp. Class A Ordinary Shares,stock,NasdaqGM,,,nasdaqtrader+yfinance
-stock:SCQCR,SCQCR,SPACCircle Acquisition Corp. Rights,stock,NasdaqGM,,,nasdaqtrader+yfinance
+stock:SCQC,SCQC,SPACCircle Acquisition Corp. Class A Ordinary Shares,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
+stock:SCQCR,SCQCR,SPACCircle Acquisition Corp. Rights,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 stock:SCQCU,SCQCU,SPACCircle Acquisition Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:SCQCW,SCQCW,SPACCircle Acquisition Corp. Warrants,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 crypto:SCRAP,SCRAP,Scrap,crypto,,,,crypti/cryptocurrencies
@@ -20252,7 +20257,7 @@ crypto:SEC,SEC,SecureCryptoPayments,crypto,,,,crypti/cryptocurrencies
 etf:SECA,SECA,Main Active Rotation ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:SECO,SECO,Serum Ecosystem Token,crypto,,,,crypti/cryptocurrencies
 crypto:SECOND,SECOND,MetaDOS,crypto,,,,crypti/cryptocurrencies
-etf:SECR,SECR,NYLIM MacKay Securitized Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:SECR,SECR,NYLI MacKay Securitized Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:SECRT,SECRT,SecretCoin,crypto,,,,crypti/cryptocurrencies
 crypto:SECT,SECT,SECTBOT,crypto,,,,crypti/cryptocurrencies
 etf:SECT,SECT,Main Sector Rotation ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -20665,7 +20670,7 @@ crypto:SISHI,SISHI,Sishi Finance,crypto,,,,crypti/cryptocurrencies
 stock:SITC,SITC,SITE Centers Corp.,stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
 stock:SITE,SITE,"SiteOne Landscape Supply, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 stock:SITM,SITM,SiTime Corporation,stock,NasdaqGM,United States,Technology,nasdaqtrader+yfinance
-etf:SITX,SITX,Investment Managers Series Trust II - Tradr 2X Long SITM Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:SITX,SITX,Tradr 2X Long SITM Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:SIU,SIU,Siu,crypto,,,,crypti/cryptocurrencies
 crypto:SIUUU,SIUUU,Crustieno Renaldo,crypto,,,,crypti/cryptocurrencies
 crypto:SIV,SIV,Sivasspor Token,crypto,,,,crypti/cryptocurrencies
@@ -20882,7 +20887,7 @@ etf:SMCX,SMCX,Defiance Daily Target 2X Long SMCI ETF,etf,NasdaqGM,,,nasdaqtrader
 etf:SMCY,SMCY,YieldMax SMCI Option Income Str,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:SMCZ,SMCZ,Defiance Daily Target 2X Short SMCI ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:SMD,SMD,SMD Coin,crypto,,,,crypti/cryptocurrencies
-stock:SMDC,SMDC,Nomura ETF Trust II - Nomura Small and Mid Cap ETF,stock,NYSEArca,United States,,nasdaqtrader+yfinance
+stock:SMDC,SMDC,Nomura Small and Mid Cap ETF,stock,NYSEArca,,,nasdaqtrader+yfinance
 etf:SMDD,SMDD,ProShares UltraPro Short MidCap400,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:SMDV,SMDV,ProShares S&P SmallCap 600 Dividend Aristocrats ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:SMDX,SMDX,Intech S&P Small-Mid Cap Diversified Alpha ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -21643,7 +21648,7 @@ stock:STLA,STLA,Stellantis N.V.,stock,NYSE,Netherlands,Consumer Cyclical,nasdaqt
 stock:STLD,STLD,"Steel Dynamics, Inc.",stock,NasdaqGS,United States,Basic Materials,nasdaqtrader+yfinance
 crypto:STLE,STLE,Saint Ligne,crypto,,,,crypti/cryptocurrencies
 etf:STLL,STLL,Leverage Shares 2X Long STRL Da,etf,Cboe US,,,nasdaqtrader+yfinance
-stock:STLN,STLN,"Starling Oncology, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
+stock:STLN,STLN,"The Oncology Institute, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 stock:STLNW,STLNW,"Starling Oncology, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 etf:STLR,STLR,Stellar ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:STLU,STLU,2x Stellar ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -21849,7 +21854,7 @@ crypto:SVPN,SVPN,Shadow Node,crypto,,,,crypti/cryptocurrencies
 stock:SVRA,SVRA,Savara Inc.,stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 stock:SVRE,SVRE,SaverOne 2014 Ltd.,stock,NasdaqCM,Israel,Technology,nasdaqtrader+yfinance
 stock:SVREW,SVREW,SaverOne 2014 Ltd.,stock,NasdaqCM,Israel,,nasdaqtrader+yfinance
-stock:SVRN,SVRN,OceanPal Inc.,stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
+stock:SVRN,SVRN,"SVRN, Inc.",stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 crypto:SVS,SVS,GivingToServices SVS,crypto,,,,crypti/cryptocurrencies
 crypto:SVT,SVT,Solvent,crypto,,,,crypti/cryptocurrencies
 etf:SVTN,SVTN,Corgi FTSE 7-10 Year U.S. Treasury Bond ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -23091,7 +23096,7 @@ stock:TVAIU,TVAIU,Thayer Ventures Acquisition Corporation II,stock,NasdaqGM,Unit
 etf:TVAL,TVAL,T. Rowe Price Value ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:TVC,TVC,Tennessee Valley Authority,stock,NYSE,United States,,nasdaqtrader+yfinance
 stock:TVE,TVE,Tennessee Valley Authority PARRS A 2029,stock,NYSE,,,nasdaqtrader+yfinance
-stock:TVGN,TVGN,Tevogen Inc.,stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
+stock:TVGN,TVGN,Tevogen Bio Holdings Inc.,stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
 stock:TVGNW,TVGNW,Tevogen Inc.,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
 stock:TVIV,TVIV,Texas Ventures Acquisition IV Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:TVIVU,TVIVU,Texas Ventures Acquisition IV Corp.,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
@@ -23359,7 +23364,7 @@ stock:UMBFO,UMBFO,UMB Financial Corporation,stock,NasdaqGS,United States,Financi
 crypto:UMBR,UMBR,Umbria Network,crypto,,,,crypti/cryptocurrencies
 crypto:UMC,UMC,Umbrella Coin,crypto,,,,crypti/cryptocurrencies
 stock:UMC,UMC,United Microelectronics Corporation,stock,NYSE,Taiwan,Technology,nasdaqtrader+yfinance
-etf:UMCU,UMCU,Investment Managers Series Trust II - Tradr 2X Long UMC Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:UMCU,UMCU,Tradr 2X Long UMC Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:UMCX,UMCX,Corgi UMC 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:UMDD,UMDD,ProShares UltraPro MidCap400,etf,NYSEArca,,,nasdaqtrader+yfinance
 stock:UMH,UMH,"UMH Properties, Inc.",stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
@@ -23393,7 +23398,7 @@ stock:UNF,UNF,UniFirst Corporation,stock,NYSE,United States,Industrials,nasdaqtr
 crypto:UNFI,UNFI,Unifi Protocol DAO,crypto,,,,crypti/cryptocurrencies
 stock:UNFI,UNFI,"United Natural Foods, Inc.",stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
 etf:UNG,UNG,"United States Natural Gas Fund, LP",etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:UNH,UNH,UnitedHealth Group Incorporated,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
+stock:UNH,UNH,UnitedHealth Group Incorporated,stock,NYSE,,,nasdaqtrader+yfinance
 etf:UNHG,UNHG,Leverage Shares 2X Long UNH Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:UNHU,UNHU,Direxion Daily Unh Bull 2X ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:UNHW,UNHW,Roundhill UNH WeeklyPay ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -23662,7 +23667,7 @@ etf:UTWO,UTWO,F/m US Treasury 2 Year Note ETF,etf,NasdaqGM,,,nasdaqtrader+yfinan
 etf:UTWY,UTWY,F/m US Treasury 20 Year Bond ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:UTX,UTX,UTIX,crypto,,,,crypti/cryptocurrencies
 stock:UTZ,UTZ,"Utz Brands, Inc.",stock,NYSE,United States,Consumer Defensive,nasdaqtrader+yfinance
-etf:UUP,UUP,Invesco DB US Dollar Index Bullish Fund,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:UUP,UUP,Invesco DB US Dollar Index Bullish Fund,etf,NYSE Arca,,,nasdaqtrader+yfinance
 etf:UUPP,UUPP,Principal CLO ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:UUSD,UUSD,Utopia USD,crypto,,,,crypti/cryptocurrencies
 crypto:UUU,UUU,U Network,crypto,,,,crypti/cryptocurrencies
@@ -23860,6 +23865,7 @@ crypto:VELOD,VELOD,Velodrome Finance,crypto,,,,crypti/cryptocurrencies
 crypto:VELOX,VELOX,Velox,crypto,,,,crypti/cryptocurrencies
 crypto:VELOXPROJECT,VELOXPROJECT,Velox,crypto,,,,crypti/cryptocurrencies
 etf:VEM,VEM,Virtus Emerging Markets Dividend ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:VEMB,VEMB,Vanguard Emerging Markets Bond Active ETF,etf,Cboe BZX,,,nasdaqtrader+yfinance
 crypto:VEMP,VEMP,vEmpire DDAO,crypto,,,,crypti/cryptocurrencies
 etf:VEMY,VEMY,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:VEN,VEN,VeChain Old,crypto,,,,crypti/cryptocurrencies
@@ -24069,7 +24075,7 @@ stock:VMI,VMI,"Valmont Industries, Inc.",stock,NYSE,United States,Industrials,na
 crypto:VMINT,VMINT,Volumint,crypto,,,,crypti/cryptocurrencies
 stock:VMO,VMO,Invesco Municipal Opportunity Trust,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 crypto:VMPX,VMPX,VMPX (Ordinals),crypto,,,,crypti/cryptocurrencies
-stock:VMRK,VMRK,Vivmark Residential,stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
+stock:VMRK,VMRK,"AvalonBay Communities, Inc.",stock,NYSE,United States,Real Estate,nasdaqtrader+yfinance
 crypto:VMS,VMS,Vehicle Mining System,crypto,,,,crypti/cryptocurrencies
 etf:VMSB,VMSB,Voya Multi-Sector Income ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:VMSD,VMSD,Victoryshares Short-Duration Municipal ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -24824,7 +24830,7 @@ crypto:WRK,WRK,BlockWRK,crypto,,,,crypti/cryptocurrencies
 crypto:WRLD,WRLD,NFT Worlds,crypto,,,,crypti/cryptocurrencies
 stock:WRLD,WRLD,World Acceptance Corporation,stock,NasdaqGS,United States,Financial Services,nasdaqtrader+yfinance
 stock:WRN,WRN,Western Copper and Gold Corporation,stock,NYSE American,Canada,Basic Materials,nasdaqtrader+yfinance
-etf:WRND,WRND,NYLIM Global Equity R&D Leaders ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
+etf:WRND,WRND,NYLI Global Equity R&D Leaders ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:WRONG,WRONG,The Wrong Token,crypto,,,,crypti/cryptocurrencies
 crypto:WROSE,WROSE,Wrapped Rose,crypto,,,,crypti/cryptocurrencies
 crypto:WRT,WRT,WRT Token,crypto,,,,crypti/cryptocurrencies
@@ -24967,7 +24973,7 @@ etf:XAGI,XAGI,Corgi AGIX 2x Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:XAH,XAH,Xahau,crypto,,,,crypti/cryptocurrencies
 crypto:XAI,XAI,Xai,crypto,,,,crypti/cryptocurrencies
 stock:XAIR,XAIR,"Beyond Air, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
-etf:XAIW,XAIW,Harbor ETF Trust - SpaceXAI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
+etf:XAIW,XAIW,SpaceXAI Lab Ecosystem ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:XAIX,XAIX,Xtrackers Artificial Intelligence and Big Data ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 crypto:XAMP,XAMP,Antiample,crypto,,,,crypti/cryptocurrencies
 crypto:XANK,XANK,Xank,crypto,,,,crypti/cryptocurrencies
@@ -25075,7 +25081,7 @@ crypto:XDEFI,XDEFI,XDEFI,crypto,,,,crypti/cryptocurrencies
 crypto:XDEN,XDEN,Xiden,crypto,,,,crypti/cryptocurrencies
 crypto:XDG,XDG,Decentral Games Governance,crypto,,,,crypti/cryptocurrencies
 etf:XDIV,XDIV,Roundhill S&P 500 Accumulating ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-stock:XDLR,XDLR,Lazard Active ETF Trust - Lazard Non-Dollar Active Income ETF,stock,NYSEArca,United States,,nasdaqtrader+yfinance
+stock:XDLR,XDLR,Lazard Non-Dollar Active Income ETF,stock,NYSEArca,,,nasdaqtrader+yfinance
 crypto:XDN,XDN,DigitalNote,crypto,,,,crypti/cryptocurrencies
 crypto:XDNA,XDNA,XDNA,crypto,,,,crypti/cryptocurrencies
 crypto:XDOGE,XDOGE,Xdoge,crypto,,,,crypti/cryptocurrencies
@@ -25137,7 +25143,7 @@ stock:XGN,XGN,Exagen Inc.,stock,NasdaqGM,United States,Healthcare,nasdaqtrader+y
 crypto:XGOLD,XGOLD,XGOLD COIN,crypto,,,,crypti/cryptocurrencies
 crypto:xGOx,xGOx,Go!,crypto,,,,crypti/cryptocurrencies
 crypto:XGPT,XGPT,XGPT,crypto,,,,crypti/cryptocurrencies
-stock:XGPU,XGPU,"Reliance Global Group, Inc.",stock,NasdaqCM,United States,,nasdaqtrader+yfinance
+stock:XGPU,XGPU,"Reliance Global Group, Inc.",stock,NasdaqCM,United States,Financial Services,nasdaqtrader+yfinance
 crypto:XGR,XGR,GoldReserve,crypto,,,,crypti/cryptocurrencies
 crypto:XGT,XGT,Xion Finance,crypto,,,,crypti/cryptocurrencies
 etf:XHB,XHB,State Street SPDR S&P Homebuilders ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -25484,13 +25490,13 @@ etf:XUSP,XUSP,Innovator Uncapped Accelerated U.S. Equity ETF,etf,Cboe US,,,nasda
 etf:XV,XV,Simplify Target 15 Distribution ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:XVAD,XVAD,FT Vest AMD & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:XVAP,XVAP,FT Vest AAPL & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:XVAZ,XVAZ,FT Vest AMZN & Target Income ET,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:XVAZ,XVAZ,FT Vest AMZN & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:XVC,XVC,Vcash,crypto,,,,crypti/cryptocurrencies
 crypto:XVE,XVE,The Vegan Initiative,crypto,,,,crypti/cryptocurrencies
 crypto:XVG,XVG,Verge,crypto,,,,crypti/cryptocurrencies
-etf:XVGL,XVGL,FT Vest GOOG & Target Income ET,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:XVGL,XVGL,FT Vest GOOG & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:XVMS,XVMS,FT Vest MSFT & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
-etf:XVMT,XVMT,FT Vest META & Target Income ET,etf,Cboe US,,,nasdaqtrader+yfinance
+etf:XVMT,XVMT,FT Vest META & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 etf:XVNV,XVNV,FT Vest NVDA & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:XVP,XVP,VirtacoinPlus,crypto,,,,crypti/cryptocurrencies
 etf:XVPT,XVPT,FT Vest PLTR & Target Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -25550,7 +25556,7 @@ etf:YANG,YANG,Direxion Daily FTSE China Bear 3X Shares,etf,NYSEArca,,,nasdaqtrad
 crypto:YAOYAO,YAOYAO,Yaoyao's Cat,crypto,,,,crypti/cryptocurrencies
 crypto:YAP,YAP,Yap Stone,crypto,,,,crypti/cryptocurrencies
 crypto:YARL,YARL,Yarloo,crypto,,,,crypti/cryptocurrencies
-stock:YARW,YARW,"Yarrow Bioscience, Inc.",stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
+stock:YARW,YARW,Yarrow Bioscience Inc,stock,NasdaqCM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:YAW,YAW,Yawww,crypto,,,,crypti/cryptocurrencies
 crypto:YAXIS,YAXIS,yAxis,crypto,,,,crypti/cryptocurrencies
 crypto:YAY,YAY,YAY Games,crypto,,,,crypti/cryptocurrencies
@@ -25917,7 +25923,7 @@ crypto:ZODI,ZODI,Zodium,crypto,,,,crypti/cryptocurrencies
 crypto:ZOE,ZOE,Zoe Cash,crypto,,,,crypti/cryptocurrencies
 crypto:ZOI,ZOI,Zoin,crypto,,,,crypti/cryptocurrencies
 crypto:ZONE,ZONE,Zone,crypto,,,,crypti/cryptocurrencies
-stock:ZONE,ZONE,"CleanCore Solutions, Inc.",stock,NYSE American,United States,Technology,nasdaqtrader+yfinance
+stock:ZONE,ZONE,Zone Frontier Inc.,stock,NYSE American,United States,Technology,nasdaqtrader+yfinance
 crypto:ZONO,ZONO,Zono Swap,crypto,,,,crypti/cryptocurrencies
 crypto:ZONX,ZONX,METAZONX,crypto,,,,crypti/cryptocurrencies
 crypto:ZOO,ZOO,ZooKeeper,crypto,,,,crypti/cryptocurrencies
