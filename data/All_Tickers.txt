@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13763 unique tickers
+# Total: 13769 unique tickers
 A
 AA
 AAA
@@ -1997,6 +1997,7 @@ BWIN
 BWIV
 BWIV.U
 BWIV.W
+BWLB
 BWLP
 BWMN
 BWMX
@@ -7317,6 +7318,7 @@ LOAN
 LOAR
 LOB
 LOB$A
+LOB$B
 LOBO
 LOCL
 LOCO
@@ -7639,6 +7641,7 @@ MDLN
 MDLV
 MDLZ
 MDPL
+MDRN
 MDRR
 MDST
 MDT
@@ -8981,6 +8984,7 @@ OPER
 OPEX
 OPFI
 OPHC
+OPHI
 OPI
 OPK
 OPLN
@@ -13003,6 +13007,7 @@ VV
 VVOS
 VVR
 VVV
+VVVV
 VVX
 VWAV
 VWAVW
@@ -13763,3 +13768,4 @@ ZXYZ.A
 ZXZZT
 ZYBT
 ZYME
+ZYN
