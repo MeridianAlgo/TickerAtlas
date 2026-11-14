@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13769 unique tickers
+# Total: 13772 unique tickers
 A
 AA
 AAA
@@ -7345,7 +7345,9 @@ LOTI
 LOTWW
 LOUP
 LOVE
+LOVI
 LOVIU
+LOVIW
 LOW
 LOWV
 LPA
@@ -13290,6 +13292,7 @@ WVE
 WVVI
 WVVIP
 WW
+WWB
 WWD
 WWJD
 WWR
