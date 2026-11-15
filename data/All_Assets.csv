@@ -5327,7 +5327,7 @@ stock:CRMD,CRMD,CorMedix Inc.,stock,NasdaqGM,United States,Healthcare,nasdaqtrad
 etf:CRMG,CRMG,Leverage Shares 2X Long CRM Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 stock:CRML,CRML,Critical Metals Corp.,stock,NasdaqGM,United States,Basic Materials,nasdaqtrader+yfinance
 stock:CRMLW,CRMLW,Critical Metals Corp.,stock,NasdaqCM,United States,,nasdaqtrader+yfinance
-stock:CRMN,CRMN,Skyline Builders Group Holding Limited,stock,NasdaqCM,Hong Kong,,nasdaqtrader+yfinance
+stock:CRMN,CRMN,Skyline Builders Group Holding Limited,stock,NasdaqCM,Hong Kong,Industrials,nasdaqtrader+yfinance
 crypto:CRMS,CRMS,Cryptomus,crypto,,,,crypti/cryptocurrencies
 stock:CRMT,CRMT,"America's Car-Mart, Inc.",stock,NasdaqGS,United States,Consumer Cyclical,nasdaqtrader+yfinance
 etf:CRMU,CRMU,Leverage Shares 2X Long CRML Daily ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -5492,7 +5492,7 @@ etf:CTEF,CTEF,Castellan Targeted Equity ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:CTEV,CTEV,Claritev Corporation,stock,NYSE,United States,Healthcare,nasdaqtrader+yfinance
 crypto:CTF,CTF,CyberTime Finance,crypto,,,,crypti/cryptocurrencies
 crypto:CTG,CTG,City Tycoon Games,crypto,,,,crypti/cryptocurrencies
-stock:CTGG,CTGG,Qwest Corporation 6.500% Senior Notes due 2051,stock,NYSE,,,nasdaqtrader+yfinance
+stock:CTGG,CTGG,Qwest Corporation 6.500% Senior Notes due 2051,stock,NasdaqGS,,,nasdaqtrader+yfinance
 stock:CTGO,CTGO,Contango Silver & Gold Inc.,stock,NYSE American,United States,Basic Materials,nasdaqtrader+yfinance
 stock:CTHH,CTHH,Qwest Corporation 6.750% Senior Notes due 2052,stock,NYSE,,,nasdaqtrader+yfinance
 crypto:CTI,CTI,ClinTex CTi,crypto,,,,crypti/cryptocurrencies
@@ -13678,7 +13678,7 @@ stock:LOAN,LOAN,"Manhattan Bridge Capital, Inc.",stock,NasdaqCM,United States,Re
 stock:LOAR,LOAR,Loar Holdings Inc.,stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 stock:LOB,LOB,"Live Oak Bancshares, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:LOB$A,LOB$A,"Live Oak Bancshares, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
-stock:LOB$B,LOB$B,"Live Oak Bancshares, Inc.",stock,NYSE,United States,,nasdaqtrader+yfinance
+stock:LOB$B,LOB$B,"Live Oak Bancshares, Inc.",stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:LOBO,LOBO,Lobo Technologies Ltd.,stock,NasdaqCM,China,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:LOBS,LOBS,Lobstex,crypto,,,,crypti/cryptocurrencies
 crypto:LOC,LOC,LockTrip,crypto,,,,crypti/cryptocurrencies
@@ -13752,9 +13752,9 @@ crypto:LOVE,LOVE,Deesse,crypto,,,,crypti/cryptocurrencies
 stock:LOVE,LOVE,The Lovesac Company,stock,NasdaqGM,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:LOVELY,LOVELY,Lovely Inu finance,crypto,,,,crypti/cryptocurrencies
 crypto:LOVESNOOPY,LOVESNOOPY,I LOVE SNOOPY,crypto,,,,crypti/cryptocurrencies
-stock:LOVI,LOVI,Live Oak Acquisition Corp. VI Class A Ordinary Shares,stock,NasdaqGM,,,nasdaqtrader+yfinance
+stock:LOVI,LOVI,Live Oak Acquisition Corp. VI Class A Ordinary Shares,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
 stock:LOVIU,LOVIU,Live Oak Acquisition Corp. VI,stock,NasdaqGM,United States,Financial Services,nasdaqtrader+yfinance
-stock:LOVIW,LOVIW,Live Oak Acquisition Corp. VI,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
+stock:LOVIW,LOVIW,Live Oak Acquisition Corp. VI Warrants,stock,NasdaqGM,United States,,nasdaqtrader+yfinance
 stock:LOW,LOW,"Lowe's Companies, Inc.",stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:LOWB,LOWB,Loser Coin,crypto,,,,crypti/cryptocurrencies
 etf:LOWV,LOWV,AB US Low Volatility Equity ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
@@ -16742,7 +16742,7 @@ crypto:OLEA,OLEA,Olea Token,crypto,,,,crypti/cryptocurrencies
 stock:OLED,OLED,Universal Display Corporation,stock,NasdaqGS,United States,Technology,nasdaqtrader+yfinance
 crypto:OLIVE,OLIVE,Olive,crypto,,,,crypti/cryptocurrencies
 stock:OLLI,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",stock,NasdaqGM,United States,Consumer Defensive,nasdaqtrader+yfinance
-stock:OLMA,OLMA,"Olema Pharmaceuticals, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
+stock:OLMA,OLMA,"Olema Oncology, Inc.",stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 stock:OLN,OLN,Olin Corporation,stock,NYSE,United States,Basic Materials,nasdaqtrader+yfinance
 crypto:OLOID,OLOID,OLOID,crypto,,,,crypti/cryptocurrencies
 stock:OLOX,OLOX,Olenox Industries Inc.,stock,NasdaqCM,United States,Industrials,nasdaqtrader+yfinance
@@ -16772,7 +16772,7 @@ etf:OMFL,OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,etf,Cboe US,,,nasdaqt
 etf:OMFS,OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 crypto:OMG,OMG,OMG Network,crypto,,,,crypti/cryptocurrencies
 crypto:OMGC,OMGC,OmiseGO Classic,crypto,,,,crypti/cryptocurrencies
-stock:OMH,OMH,Ohmyhome Limited,stock,NasdaqCM,Singapore,Real Estate,nasdaqtrader+yfinance
+stock:OMH,OMH,Ohmyhome Limited,stock,NasdaqCM,Singapore,Communication Services,nasdaqtrader+yfinance
 crypto:OMI,OMI,ECOMI,crypto,,,,crypti/cryptocurrencies
 crypto:OMIC,OMIC,Omicron,crypto,,,,crypti/cryptocurrencies
 crypto:OMIKAMI,OMIKAMI,Amaterasu Omikami,crypto,,,,crypti/cryptocurrencies
@@ -16887,7 +16887,7 @@ crypto:OPEX,OPEX,Optherium Token,crypto,,,,crypti/cryptocurrencies
 etf:OPEX,OPEX,Tradr 2X Long OPEN Daily ETF,etf,Cboe US,,,nasdaqtrader+yfinance
 stock:OPFI,OPFI,OppFi Inc.,stock,NYSE,United States,Financial Services,nasdaqtrader+yfinance
 stock:OPHC,OPHC,"OptimumBank Holdings, Inc.",stock,NYSE American,United States,Financial Services,nasdaqtrader+yfinance
-stock:OPHI,OPHI,CollPlant Biotechnologies Ltd Ordinary Shares,stock,NasdaqCM,,,nasdaqtrader+yfinance
+stock:OPHI,OPHI,CollPlant Biotechnologies Ltd.,stock,NasdaqCM,Israel,Healthcare,nasdaqtrader+yfinance
 crypto:OPHX,OPHX,Operation Phoenix,crypto,,,,crypti/cryptocurrencies
 stock:OPI,OPI,Office Properties Income Trust,stock,NasdaqCM,United States,Real Estate,nasdaqtrader+yfinance
 crypto:OPINU,OPINU,Optimus Inu,crypto,,,,crypti/cryptocurrencies
@@ -26006,7 +26006,7 @@ stock:ZYBT,ZYBT,Zhengye Biotechnology Holding Limited,stock,NasdaqCM,China,Healt
 crypto:ZYD,ZYD,ZayedCoin,crypto,,,,crypti/cryptocurrencies
 stock:ZYME,ZYME,Zymeworks Inc.,stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ZYN,ZYN,Zynecoin,crypto,,,,crypti/cryptocurrencies
-stock:ZYN,ZYN,PTL LTD Class A Ordinary Shares,stock,NasdaqCM,,,nasdaqtrader+yfinance
+stock:ZYN,ZYN,PTL Limited,stock,NasdaqCM,Singapore,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:ZYR,ZYR,Zyrri,crypto,,,,crypti/cryptocurrencies
 crypto:ZYRO,ZYRO,Zyro,crypto,,,,crypti/cryptocurrencies
 crypto:ZYTARA,ZYTARA,Zytara dollar,crypto,,,,crypti/cryptocurrencies
