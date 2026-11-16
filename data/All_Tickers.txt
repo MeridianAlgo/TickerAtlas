@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13772 unique tickers
+# Total: 13775 unique tickers
 A
 AA
 AAA
@@ -5899,6 +5899,7 @@ HYTR
 HYUP
 HYXF
 HYZD
+HZN
 HZO
 IA
 IAC
@@ -9604,7 +9605,9 @@ PONOU
 PONY
 POOL
 POR
+PORT
 PORT.U
+PORT.W
 POST
 POW
 POWA

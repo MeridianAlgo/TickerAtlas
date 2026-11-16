@@ -5494,7 +5494,7 @@ crypto:CTF,CTF,CyberTime Finance,crypto,,,,crypti/cryptocurrencies
 crypto:CTG,CTG,City Tycoon Games,crypto,,,,crypti/cryptocurrencies
 stock:CTGG,CTGG,Qwest Corporation 6.500% Senior Notes due 2051,stock,NasdaqGS,,,nasdaqtrader+yfinance
 stock:CTGO,CTGO,Contango Silver & Gold Inc.,stock,NYSE American,United States,Basic Materials,nasdaqtrader+yfinance
-stock:CTHH,CTHH,Qwest Corporation 6.750% Senior Notes due 2052,stock,NYSE,,,nasdaqtrader+yfinance
+stock:CTHH,CTHH,Qwest Corporation 6.750% Senior Notes due 2052,stock,NasdaqGS,,,nasdaqtrader+yfinance
 crypto:CTI,CTI,ClinTex CTi,crypto,,,,crypti/cryptocurrencies
 crypto:CTIC,CTIC,Coinmatic,crypto,,,,crypti/cryptocurrencies
 etf:CTIF,CTIF,Castellan Targeted Income ETF,etf,Cboe US,,,nasdaqtrader+yfinance
@@ -9810,7 +9810,7 @@ crypto:GLINK,GLINK,Gemlink,crypto,,,,crypti/cryptocurrencies
 crypto:GLINT,GLINT,BeamSwap,crypto,,,,crypti/cryptocurrencies
 etf:GLIX,GLIX,Lazard Listed Infrastructure ETF,etf,NYSEArca,,,nasdaqtrader+yfinance
 etf:GLL,GLL,ProShares UltraShort Gold,etf,NYSEArca,,,nasdaqtrader+yfinance
-stock:GLLD,GLLD,MicroSectors Gold 3X Leveraged ETN,stock,NYSEArca,,,nasdaqtrader+yfinance
+etf:GLLD,GLLD,MicroSectors Gold 3X Leveraged ETN,etf,NYSEArca,,,nasdaqtrader+yfinance
 crypto:GLM,GLM,Golem Network Token,crypto,,,,crypti/cryptocurrencies
 stock:GLMD,GLMD,Galmed Pharmaceuticals Ltd.,stock,NasdaqCM,Israel,Healthcare,nasdaqtrader+yfinance
 crypto:GLMR,GLMR,Moonbeam,crypto,,,,crypti/cryptocurrencies
@@ -11220,6 +11220,7 @@ crypto:HZ,HZ,Horizon,crypto,,,,crypti/cryptocurrencies
 crypto:HZD,HZD,HorizonDollar,crypto,,,,crypti/cryptocurrencies
 crypto:HZM,HZM,HZM Coin,crypto,,,,crypti/cryptocurrencies
 crypto:HZN,HZN,Horizon Protocol,crypto,,,,crypti/cryptocurrencies
+none:HZN,HZN,Bright Horizon Energy Corporation Common Stock,none,NYSE,,,nasdaqtrader+yfinance
 stock:HZO,HZO,"MarineMax, Inc.",stock,NYSE,United States,Consumer Cyclical,nasdaqtrader+yfinance
 crypto:HZT,HZT,HazMatCoin,crypto,,,,crypti/cryptocurrencies
 crypto:I0C,I0C,I0coin,crypto,,,,crypti/cryptocurrencies
@@ -18104,7 +18105,9 @@ crypto:PORKE,PORKE,PONKE FORK,crypto,,,,crypti/cryptocurrencies
 crypto:PORKINU,PORKINU,PepeFork INU,crypto,,,,crypti/cryptocurrencies
 crypto:PORNROCKET,PORNROCKET,PornRocket,crypto,,,,crypti/cryptocurrencies
 crypto:PORT,PORT,Port Finance,crypto,,,,crypti/cryptocurrencies
+stock:PORT,PORT,Southport Acquisition Corp. II Class A Ordinary Shares,stock,NYSE,,,nasdaqtrader+yfinance
 stock:PORT.U,PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",stock,NYSE,,,nasdaqtrader+yfinance
+stock:PORT.W,PORT.W,"Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",stock,NYSE,,,nasdaqtrader+yfinance
 crypto:PORT3,PORT3,Port3 Network,crypto,,,,crypti/cryptocurrencies
 crypto:PORTAL,PORTAL,Portal,crypto,,,,crypti/cryptocurrencies
 crypto:PORTALTOKEN,PORTALTOKEN,Portal,crypto,,,,crypti/cryptocurrencies
@@ -18893,7 +18896,7 @@ etf:QWLD,QWLD,State Street SPDR MSCI World St,etf,NYSEArca,,,nasdaqtrader+yfinan
 crypto:QXC,QXC,QuantumXC,crypto,,,,crypti/cryptocurrencies
 stock:QXL,QXL,Quantum X Labs Inc.,stock,NasdaqCM,Israel,Technology,nasdaqtrader+yfinance
 stock:QXO,QXO,"QXO, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
-stock:QXO$B,QXO$B,QXO Inc,stock,NYSE,,,nasdaqtrader+yfinance
+stock:QXO$B,QXO$B,"QXO, Inc.",stock,NYSE,United States,Industrials,nasdaqtrader+yfinance
 etf:QXQ,QXQ,SGI Enhanced Nasdaq-100 ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:QYLD,QYLD,Global X NASDAQ 100 Covered Call ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
 etf:QYLG,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,etf,NasdaqGM,,,nasdaqtrader+yfinance
@@ -24935,7 +24938,7 @@ stock:WVVI,WVVI,"Willamette Valley Vineyards, Inc.",stock,NasdaqCM,United States
 stock:WVVIP,WVVIP,"Willamette Valley Vineyards, Inc.",stock,NasdaqCM,United States,Consumer Defensive,nasdaqtrader+yfinance
 stock:WW,WW,"WW International, Inc.",stock,NasdaqGM,United States,Healthcare,nasdaqtrader+yfinance
 crypto:WWB,WWB,Wowbit,crypto,,,,crypti/cryptocurrencies
-stock:WWB,WWB,Windward Bio Group AG Common Shares,stock,NasdaqGS,Switzerland,Healthcare,nasdaqtrader+yfinance
+stock:WWB,WWB,Windward Bio Group AG,stock,NasdaqGS,Switzerland,Healthcare,nasdaqtrader+yfinance
 crypto:WWD,WWD,Wolf Works DAO,crypto,,,,crypti/cryptocurrencies
 stock:WWD,WWD,"Woodward, Inc.",stock,NasdaqGS,United States,Industrials,nasdaqtrader+yfinance
 crypto:WWDOGE,WWDOGE,Wrapped WDOGE,crypto,,,,crypti/cryptocurrencies
@@ -26006,7 +26009,7 @@ stock:ZYBT,ZYBT,Zhengye Biotechnology Holding Limited,stock,NasdaqCM,China,Healt
 crypto:ZYD,ZYD,ZayedCoin,crypto,,,,crypti/cryptocurrencies
 stock:ZYME,ZYME,Zymeworks Inc.,stock,NasdaqGS,United States,Healthcare,nasdaqtrader+yfinance
 crypto:ZYN,ZYN,Zynecoin,crypto,,,,crypti/cryptocurrencies
-stock:ZYN,ZYN,PTL Limited,stock,NasdaqCM,Singapore,Consumer Cyclical,nasdaqtrader+yfinance
+etf:ZYN,ZYN,PTL Limited,etf,NasdaqCM,,,nasdaqtrader+yfinance
 crypto:ZYR,ZYR,Zyrri,crypto,,,,crypti/cryptocurrencies
 crypto:ZYRO,ZYRO,Zyro,crypto,,,,crypti/cryptocurrencies
 crypto:ZYTARA,ZYTARA,Zytara dollar,crypto,,,,crypti/cryptocurrencies
