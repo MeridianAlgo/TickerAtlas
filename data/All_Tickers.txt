@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13814 unique tickers
+# Total: 13818 unique tickers
 A
 AA
 AAA
@@ -681,6 +681,7 @@ ANRO
 ANSC
 ANSCU
 ANSCW
+ANT
 ANTA
 ANTW
 ANTX
@@ -3885,6 +3886,7 @@ ENTX
 ENVA
 ENVB
 ENVX
+ENVXW
 ENZL
 EO
 EOCN
@@ -11306,6 +11308,7 @@ SOLZ
 SOMN
 SON
 SONM
+SONN
 SONO
 SONY
 SOPA
@@ -13674,6 +13677,7 @@ YJ
 YJUN
 YLD
 YLDE
+YLDS
 YLDW
 YLDY
 YMAG
