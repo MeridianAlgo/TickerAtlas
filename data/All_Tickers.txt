@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13818 unique tickers
+# Total: 13821 unique tickers
 A
 AA
 AAA
@@ -54,6 +54,7 @@ AAT
 AAUA
 AAUB
 AAUC
+AAUD
 AAUS
 AAVM
 AAXJ
@@ -3032,6 +3033,7 @@ CZFS
 CZNC
 CZR
 CZWI
+CZZL
 D
 DAAQ
 DAAQU
@@ -6449,6 +6451,7 @@ ISHG
 ISHP
 ISMD
 ISMF
+ISMH
 ISNR
 ISNRU
 ISNRW
