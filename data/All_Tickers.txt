@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13853 unique tickers
+# Total: 13855 unique tickers
 A
 AA
 AAA
@@ -1434,6 +1434,7 @@ BFIX
 BFJA
 BFJL
 BFLB
+BFLR
 BFLX
 BFLY
 BFOC
@@ -10465,6 +10466,7 @@ RMSG
 RMSGW
 RMT
 RMTI
+RMTX
 RNA
 RNAC
 RNAQ
