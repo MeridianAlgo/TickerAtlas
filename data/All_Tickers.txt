@@ -1,5 +1,5 @@
 # Combined US and Global stock universe
-# Total: 13855 unique tickers
+# Total: 13857 unique tickers
 A
 AA
 AAA
@@ -301,6 +301,7 @@ AFJKU
 AFK
 AFL
 AFLG
+AFLR
 AFMC
 AFOS
 AFRI
@@ -5843,6 +5844,7 @@ HTHT
 HTLD
 HTLM
 HTO
+HTOEU
 HTOO
 HTRB
 HTT
